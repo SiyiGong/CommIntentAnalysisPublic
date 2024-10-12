@@ -3,4 +3,4 @@ This project contains anonymized data and code needed to replicate the statistic
 
 All plotting and summary statistics, and ANOVA results are performed [here](CommIntent_data_analysis_pure.ipynb), while the mixed effect models are performed [here](analysis.Rmd). 
 
-The anonymized data can be accessed [here](anonymized_data.csv).
+The anonymized participants data can be accessed [here](anonymized_data.csv). Labeling output from fine-tuning GPT 3.5 can be accessed here [here](labeled_output_0609.csv)
