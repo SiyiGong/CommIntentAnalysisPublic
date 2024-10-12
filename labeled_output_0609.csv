@@ -1,0 +1,923 @@
+,Index,action,survey,category,readAction,intention
+0,74,zipPlasticBag,The person slides her hand as if telling us to grab and close the zip lock bag. ,show,True,both
+1,60,drinkCup,Asking for a sip of water.,show,True,both
+2,61,peelPostIt,"Maybe attempting to ask for a writing utensil, but they could have been just moving their hand.",show,False,both
+3,62,snipScissors,Closing their fingers.,do,False,instrumental
+4,63,tweezeTweezer,"Smashing their thumb into their index finger as to represent pressing a button, but I don't see how this can mean communicating.",pretend,False,none
+5,64,igniteLighter,Moving her thumb backwards imitating using the lighter. ,pretend,True,none
+6,65,foldNapkin,Moving her index fingers backwards as if folding the napkin. ,do,True,instrumental
+7,66,flipPage,Moving her hand over and pretending to be pinching a page of the book in front of her.,pretend,True,none
+8,67,brushTableBroom,"Using a brush to sweep a piece of paper. I don't quite see what is being communicated in this video, or if something is being communicated.",do,True,instrumental
+9,68,blowCandle,The person is blowing on the candle to show that the smell from the burning wax is too much.,show,True,both
+10,69,pullTissue,"The person is lifting her hand as if she is holding a piece of paper, she is imitating raising a colored paper as if voting in a public census.",pretend,False,none
+11,70,openGluestick,"The person moved her right hand upright, but I see no message from that.",do,False,none
+12,71,eraseMark,The person is showing us that she doesn't want the writing on the piece of paper.,show,True,communicative
+13,72,dispenseSoap,She is telling us to lower our voices to a normal level by bringing both of her hands to the same height.,show,False,both
+14,73,tapPhone,The person is clicking on her phone very forcefully as if she doesn't have much experience.,do,True,instrumental
+15,87,flickTrash,The person is flicking her fingers as if hitting the paper ball. She tries to tell us to pass her the ball so we can play a game passing it back and fourth.,show,True,both
+16,75,closeJar,The person rotates her hand as to motion us (the audience) to open the jar.,show,True,both
+17,76,chargePhone,"The person connects the charger to the phone, no message is being sent.",do,True,instrumental
+18,77,openSnack,The person is telling us to tear the edge of a piece of paper by pretending to be pinching something and rotating her hands.,show,False,both
+19,78,crushBottle,The person closes her fist as if to tell us to crush the bottle.,show,True,both
+20,79,foldPaper,The person is folding a piece of paper.,do,True,instrumental
+21,80,insertAirpod,The person puts on an air pod to cancel out the loud noise outside. ,do,True,instrumental
+22,81,pressRemote,The person imitates pressing a button like an earlier video but this time we know it is a remote that she wants us to pass or press on.,pretend,True,both
+23,82,swipePhone,The person is imitating scrolling through a phone.,pretend,True,none
+24,83,drinkMug,The person lifts the cup facing the opening towards her as if she is about to take a sip.,do,True,instrumental
+25,84,openLid,The person is opening the bottle because she is about to take a sip even though it is empty.,do,True,instrumental
+26,88,sprayBottle,The person is imitating taking a picture with a camera.,pretend,False,none
+27,85,openCan,The person is telling us to open the can for her by moving her index finger backwards as if opening it herself.,show,True,both
+28,89,drawLine,The person slides her hand across imitating the closing of a zip lock bag by pinching the air.,pretend,False,none
+29,86,twistCube,"she is trying to solve a the cube, I don't see any messages being sent to the audience.",do,True,instrumental
+30,477,openLid,pretending to untwist the lid of a water bottle,pretend,True,none
+31,476,openGluestick,uncapping a gluestick,do,True,instrumental
+32,475,crushBottle,squeezing a stress ball in her hand,do,True,instrumental
+33,474,chargePhone,pretending to charge her phone,pretend,True,none
+34,473,blowCandle,pretending to blow out a candle,pretend,True,none
+35,472,insertAirpod,putting on an Airpod,do,True,instrumental
+36,471,swipePhone,scrolling on her phone,do,True,instrumental
+37,470,flipPage,making a rainbow,do,False,instrumental
+38,469,brushTableBroom,sweeping a piece of paper into the dust bin,do,True,instrumental
+39,468,drinkCup,lifting a cup to her lips,do,True,instrumental
+40,467,openSnack,tearing open a bag of chips/candy/something,do,True,instrumental
+41,466,igniteLighter,pressing and holding a button down,do,False,instrumental
+42,452,zipPlasticBag,zipping a ziploc bag closed,do,True,instrumental
+43,464,snipScissors,using scissors,do,True,instrumental
+44,463,foldPaper,folding a piece of paper,do,True,instrumental
+45,462,drawLine,drawing a line,do,True,instrumental
+46,461,peelPostIt,crossing something out on a piece of paper,do,True,instrumental
+47,460,sprayBottle,using some sort of spray...Aerosol?,do,True,instrumental
+48,459,dispenseSoap,using hand sanitizer (pumping the dispenser),do,True,instrumental
+49,458,flickTrash,flicking something,do,True,instrumental
+50,457,pressRemote,using a TV remote control,do,True,instrumental
+51,456,tweezeTweezer,using tweezers,do,True,instrumental
+52,455,drinkMug,lifting cup to take a drink,do,True,instrumental
+53,454,twistCube,"twisting a rubric cube
+",do,True,instrumental
+54,453,openCan,"scrolling a mouse
+",do,False,instrumental
+55,451,foldNapkin,"motioning someone forward with two pointer fingers
+",show,False,both
+56,465,eraseMark,erasing something,do,True,instrumental
+57,478,tapPhone,pretending to tap on her phone,pretend,True,none
+58,450,closeJar,mimicking unscrewing a jar lid,pretend,True,none
+59,479,pullTissue,taking a tissue out of the tissue box,do,True,instrumental
+60,268,openSnack,asking for some of my snack,show,True,both
+61,242,igniteLighter,lighting a lighter,do,True,instrumental
+62,243,openCan,opening a can,do,True,instrumental
+63,244,foldNapkin,folding a napkin,do,True,instrumental
+64,245,drinkMug,pulling something up from the desk,do,False,instrumental
+65,246,flickTrash,flicking a small crumpled paper across the table,do,True,instrumental
+66,247,tapPhone,mimicking the motion of typing on their phone,pretend,True,none
+67,248,peelPostIt,ripping a post it note off its pack,do,True,instrumental
+68,249,zipPlasticBag,opening a plastic bag,do,True,instrumental
+69,250,drinkCup,asking to have a drink from my cup,show,True,both
+70,251,foldPaper,giving me something,show,False,both
+71,252,blowCandle,whistling,do,False,none
+72,253,snipScissors,asking for my scissors,show,True,both
+73,269,chargePhone,playing a violin,do,False,instrumental
+74,254,dispenseSoap,asking for my hand sanitizer,show,True,both
+75,256,openGluestick,asking to use my glue stick,show,True,both
+76,257,pressRemote,using a tv remote,do,True,instrumental
+77,258,twistCube,turning something over,do,True,instrumental
+78,259,pullTissue,asking to use a tissue,show,True,both
+79,260,brushTableBroom,conducting musical instruments,do,False,instrumental
+80,261,tweezeTweezer,asking to use my tweezers,show,True,both
+81,262,flipPage,flipping the pages of a book,do,True,instrumental
+82,263,sprayBottle,asking to use my spray,show,True,both
+83,264,crushBottle,smashing a plastic water bottle,do,True,instrumental
+84,265,drawLine,writing in a line,do,True,instrumental
+85,266,eraseMark,showing the size of an object,show,False,communicative
+86,267,closeJar,closing a jar,do,True,instrumental
+87,241,swipePhone,mimicking the motion of swiping on their phone,pretend,True,none
+88,255,insertAirpod,putting in an earpiece or headphone,do,True,instrumental
+89,240,openLid,"mimicking the motion of stirring tea/coffee
+",pretend,False,none
+90,569,drawLine,They pretended to draw a line,pretend,True,none
+91,541,brushTableBroom,They were moving their hand,do,False,instrumental
+92,542,igniteLighter,They were lighting a lighter,do,True,instrumental
+93,543,snipScissors,"They were making some hand gesture
+",show,False,communicative
+94,544,crushBottle,they were clenching their fist,do,False,instrumental
+95,545,pressRemote,They were pretending to press a button on a remote ,pretend,True,none
+96,546,closeJar,they were pretending to twist the lid off a jar,pretend,True,none
+97,547,foldNapkin,they were pretending to fold a piece of tissue,pretend,True,none
+98,548,insertAirpod,They put an AirPod into their ear,do,True,instrumental
+99,549,eraseMark,They were erasing a line off a paper,do,True,instrumental
+100,550,flickTrash,They flicked their fingers,do,True,instrumental
+101,551,tweezeTweezer,They pretended to press on tweezers ,pretend,True,none
+102,552,openGluestick,They pretended to take a lid off the feltip,pretend,True,none
+103,553,blowCandle,They blew out a candle,do,True,instrumental
+104,554,drinkMug,They lifted their hand,do,False,instrumental
+105,555,twistCube,They made some hand gesture,show,False,communicative
+106,556,foldPaper,They pretended to turn over a sheet of paper,pretend,True,none
+107,557,openSnack,They opened a bag of crisps,do,True,instrumental
+108,558,dispenseSoap,They pretend to press on the hand sanitizer top,pretend,True,none
+109,559,openCan,They opened a can ,do,True,instrumental
+110,560,tapPhone,They were counting ,do,False,instrumental
+111,561,pullTissue,They lifted their hand,do,False,instrumental
+112,562,chargePhone,They plugged their phone in,do,True,instrumental
+113,563,peelPostIt,They ripped off the top post-it note,do,True,instrumental
+114,564,drinkCup,They pretended to lift a glass,pretend,False,none
+115,565,zipPlasticBag,They pretended to open/close a Ziplock bag,pretend,True,none
+116,566,sprayBottle,They pretended to spray perfume,pretend,True,none
+117,567,openLid,They opened a bottle of water,do,True,instrumental
+118,540,swipePhone,They were pointing or making some hand gesture.,show,False,communicative
+119,568,flipPage,They turned a page,do,True,instrumental
+120,120,brushTableBroom,Maybe demonstrating how to play the violin,show,False,both
+121,148,drinkMug,Demonstrating lack of interest in drinking by looking at the bottom of her mug,show,False,communicative
+122,146,dispenseSoap,Copying a scene that Ross does in Friends to tell his roommates to be quiet,pretend,False,both
+123,145,openGluestick,Starting up a mini lawn mower or a tiny chainsaw,do,False,instrumental
+124,144,igniteLighter,Click on the lighter,do,True,instrumental
+125,143,peelPostIt,Tear off a sticky note for me please,show,True,both
+126,142,openSnack,Asking someone to tear open a bag of snacks,show,True,both
+127,141,twistCube,Solving a rubik's cube,do,True,instrumental
+128,140,pressRemote,Pressing a TV remote but unclear,do,True,instrumental
+129,139,foldPaper,Placing fabric on a table to cut,do,True,instrumental
+130,138,openLid,Open the bottle by twisting open the cap so I can drink,do,True,both
+131,137,snipScissors,Telling someone to be quiet,show,False,communicative
+132,136,eraseMark,"Based on picture context, demonstrating how to erase on paper",show,True,both
+133,135,tweezeTweezer,Actively clicking something like a clicker to train a dog,do,False,instrumental
+134,149,chargePhone,Charging a phone,do,True,instrumental
+135,134,closeJar,Imagining twisting open a jar of jam maybe,pretend,True,none
+136,132,crushBottle,"Fisting up a plastic, empty waterbottle
+",do,True,instrumental
+137,131,insertAirpod,Demonstrating how to put an airpod in one's ear without the airpod,show,True,both
+138,130,swipePhone,"Swiping on a phone, like social media to communicate with friends",show,True,both
+139,129,sprayBottle,Wasting liquid spray by spraying it to a non-specified spot,do,True,instrumental
+140,128,pullTissue,Pulling out tissue paper,do,True,instrumental
+141,127,blowCandle,Trying to blow out a candle with minimal effort,do,True,instrumental
+142,126,drawLine,Fake drawing a straight line,pretend,True,none
+143,125,tapPhone,Tapping a phone like a 90 year old (in slow motion),do,True,instrumental
+144,124,drinkCup,Fake drinking,pretend,True,none
+145,123,openCan,Attempting to open a can of juice with telekenesis,do,True,instrumental
+146,122,zipPlasticBag,Unzipping a semi-clear plastic bag,do,True,instrumental
+147,121,flipPage,Turning a page of the Bible,do,True,instrumental
+148,133,foldNapkin,Moving the forefinger back while the hands were loosely fisted,do,False,instrumental
+149,147,flickTrash,Getting food/scraps off her area by flicking it to someone/somewhere else,do,True,instrumental
+150,597,eraseMark,i don't know,unidentified,False,none
+151,571,crushBottle,making a fist with their hand,do,False,instrumental
+152,596,pullTissue,getting a tissue from the box,do,True,instrumental
+153,595,openGluestick,taking the cap off of the chapstick,do,True,instrumental
+154,594,twistCube,imitating like they are playing with the rubics cube ,pretend,True,none
+155,593,drinkMug,imitating like they are holding the mug and drinking from it ,pretend,True,none
+156,592,foldPaper,folding a paper,do,True,instrumental
+157,591,tapPhone,tapping on their phone,do,True,instrumental
+158,590,closeJar,opening a container,do,True,instrumental
+159,589,peelPostIt,opening a zipper,do,False,instrumental
+160,588,swipePhone,swiping on their phone,do,True,instrumental
+161,587,pressRemote,using the remote control,do,True,instrumental
+162,586,flipPage,showing one point and then another,show,True,both
+163,585,zipPlasticBag,opening the zipper of the container,do,True,instrumental
+164,599,sprayBottle,using the UV spray,do,True,instrumental
+165,583,drawLine,drawing a line,do,True,instrumental
+166,582,openLid,opening a bottle,do,True,instrumental
+167,581,igniteLighter,using a lighter,do,True,instrumental
+168,580,drinkCup,they drank something from the cup,do,True,instrumental
+169,579,chargePhone,charging their phone ,do,True,instrumental
+170,578,brushTableBroom,cleaning up the table ,do,True,instrumental
+171,577,openCan,immitating the computer mouse ,pretend,False,none
+172,576,dispenseSoap,they are just putting hand sanitizer on their hand ,do,True,instrumental
+173,575,openSnack,the person is making a sign of ripping a paper.maybe trying to communicate to me that they ripped a paper,show,False,both
+174,574,tweezeTweezer,they are not specifically talking to me,show,False,none
+175,573,blowCandle,talking to me ,show,False,communicative
+176,572,flickTrash,flicking the popcorn,do,True,instrumental
+177,598,foldNapkin,folding a napkin,do,True,instrumental
+178,584,insertAirpod,putting on headphones,do,True,instrumental
+179,570,snipScissors,using the scissors,do,True,instrumental
+180,601,drinkMug,The person lifted a mug up as if they were about to drink out of it. ,do,True,instrumental
+181,602,peelPostIt,the person peeled a sticky note from the  notepad.,do,True,instrumental
+182,629,pressRemote,the person pressed buttons on a TV remote,do,True,instrumental
+183,628,flickTrash,the person pretended to flick something off the table. ,pretend,True,none
+184,627,drinkCup,the person lifted their cupped hand. ,do,False,instrumental
+185,626,openSnack,The person pretended to tear something. ,pretend,False,none
+186,625,crushBottle,The person closed their hand into a fist,do,False,instrumental
+187,624,twistCube,The person twisted a rubix cube,do,True,instrumental
+188,623,zipPlasticBag,The person zipped a bag closed.,do,True,instrumental
+189,622,insertAirpod,The person picked up an airpod.,do,True,instrumental
+190,621,openGluestick,The person opened chapstick. ,do,True,instrumental
+191,620,openCan,The person opened a can. ,do,True,instrumental
+192,619,closeJar,The person twisted a lid off of a jar. ,do,True,instrumental
+193,618,tweezeTweezer,The person pinched their fingers together.,do,True,instrumental
+194,617,brushTableBroom,The person used a broom to pick up trash.,do,True,instrumental
+195,600,foldNapkin,She was touching her thumb to her ring finger. ,do,False,instrumental
+196,615,igniteLighter,The person lit a lighter. ,do,True,instrumental
+197,616,pullTissue,The person grabbed a tissue.,do,True,instrumental
+198,603,openLid,The person pretended to twist a cap off of something. ,pretend,True,none
+199,604,sprayBottle,The person sprayed something out of a can. ,do,True,instrumental
+200,605,snipScissors,"The person pretended to use scissors, though the scissors were laying flat on the table. ",pretend,True,none
+201,606,tapPhone,The person looked like they were pretending to swipe on a phone. ,pretend,True,none
+202,608,drawLine,The person drew a line with a pencil onto a notebook. ,do,True,instrumental
+203,607,dispenseSoap,The person pumped anti-bacterial soap onto their hands. ,do,True,instrumental
+204,610,blowCandle,The person looked as if they were whistling. ,do,True,instrumental
+205,611,foldPaper,The person made the motion of laying a piece of paper on a table. ,do,True,instrumental
+206,612,flipPage,The person pointed from their right to their left.,show,True,both
+207,613,chargePhone,The person moved an imaginary object into their left hand?,pretend,False,none
+208,614,swipePhone,A person appeared to swipe on their phone.,do,True,instrumental
+209,609,eraseMark,"The person pretended to erase something, but the eraser and paper were laying on the table. ",pretend,True,none
+210,649,sprayBottle,spray the can,do,True,instrumental
+211,647,chargePhone,plug in a phone ,do,True,instrumental
+212,648,drinkMug,pick up the mug and drink,do,True,instrumental
+213,650,openLid,twist open a bottle ,do,True,instrumental
+214,656,twistCube,twist open a container,do,True,instrumental
+215,652,tapPhone,press on the phone screen,do,True,instrumental
+216,653,openGluestick,pull open the glue cap,do,True,instrumental
+217,654,insertAirpod,put on earbuds,do,True,instrumental
+218,655,pullTissue,pick up something,do,True,instrumental
+219,645,swipePhone,scroll on a screen,do,True,instrumental
+220,657,pressRemote,turn on the tv with a remote,do,True,instrumental
+221,651,foldPaper,folding something,do,True,instrumental
+222,644,openSnack,rip open a chip bag,do,True,instrumental
+223,638,tweezeTweezer,pinch the twizzer,do,True,instrumental
+224,642,eraseMark,move an object,do,False,instrumental
+225,641,flipPage,turn a page,do,True,instrumental
+226,640,flickTrash,flick a piece of paper rolled in a ball,do,True,instrumental
+227,639,brushTableBroom,turn a page,do,False,instrumental
+228,637,openCan,open a soda can,do,True,instrumental
+229,636,snipScissors,to be quite,do,False,none
+230,635,drawLine,take the pencil,do,True,instrumental
+231,634,peelPostIt,grab a stickynote,do,True,instrumental
+232,633,foldNapkin,hand signal to bring in something or turn in something,show,False,both
+233,632,drinkCup,drinking from a cup,do,True,instrumental
+234,631,blowCandle,smelling a scent,do,False,instrumental
+235,658,crushBottle,squeeze an empty bottle for recycling,do,True,instrumental
+236,630,dispenseSoap,pressing down on handsanitizer bottle,do,True,instrumental
+237,643,igniteLighter,light up the lighter,do,True,instrumental
+238,659,closeJar,twist open or close a container lid,do,True,instrumental
+239,646,zipPlasticBag,zip up a bag,do,True,instrumental
+240,683,crushBottle,"Her reaching out her hand to the shaking and empty bottle but pulling her hand back at the end seems like i just finished the water and put the bottle down but she wanted me to hand her the bottle so she could drink some yet realized I finished it so she thought ""nevermind."" but this may be a signal for me to be a nice person and get her more water.",show,False,both
+241,687,blowCandle,"since she's weakly and farly blowing out the candle, I think she's trying to signal to me to do it for her due to her low effort. ",show,True,both
+242,686,snipScissors,"she seems to want to cut something and the way the scissors are fully in the air/in my view, makes me feel like she wants me to do something about it. ",show,True,both
+243,685,foldNapkin,"she seems to be folding her own tissue to use it, but since her arms are sticking out a little, it makes me wonder if shes putting it out for me to use?",do,True,both
+244,684,eraseMark,"she seems to be erasing something herself which isn't involving me but since i see her struggling to actually erase the mark, I would probably try to help her actually erase it. ",do,True,both
+245,682,openGluestick,she's obviously acting unnatural to get my attention and say something but the motion is so awkward and ominous. it looks like she's ripping paper?,show,False,both
+246,681,closeJar,"She is opening the jar for herself so she doesn't need to talk to me. but, if the jar wouldn't open or she was struggling, I would think she is subliminally communicating with me so i would help her open the jar.",do,True,instrumental
+247,680,insertAirpod,"she seems to either be scratching her head or thinking which doesn't convey any message to me. but, she might be signaling to me that I need to think or use my head. ",show,False,both
+248,679,brushTableBroom,she's cleaning up by herself and there's no other mess so I don't think she's trying to hint that I'm being messy or need to clean. ,do,True,instrumental
+249,678,twistCube,you play rubix cubes by yourself so it seems like she's just minding her business and starting her game. ,do,True,instrumental
+250,677,chargePhone,she seems to want me to plug the charger in the phone for her. ,show,True,both
+251,676,drinkMug,"the fist moving seems like anger of some sort but since the movement was slight and gentle, i don't feel like she's going to hit me. ",do,False,none
+252,675,drawLine,she seems to want me to give her a pencil to write with because her hand is positioned oddly but it isn't obvious enough to understand what she actually means. ,show,True,both
+253,674,pullTissue,"Since she's doing the action herself on something instead of mid air, she seems to want to just blow her own nose or use the tissue herself. if she pulled it out towards me i would think she wanted me to wipe my face or something. ",do,True,both
+254,673,flipPage,She is doing the same thing where she wants the book to end up in her hands so she can continue flipping the pages but she doesn't obviously or directly signal to me that she wants me to pass her the book so it's confusing. ,do,True,both
+255,672,drinkCup,"Again, she seems like she wants someone to bring the cup to her hand so she can drink it but she's doing it in an ominous way that doesn't feel directed to me. ",show,True,both
+256,671,tapPhone,"Doing this is unnatural so it seems like she wants the phone to end up in her hand so she can swipe on it, but I'm not sure if this is directed at me because if she truly wanted me to hand it to her she could point at the phone and back to herself or something. ",do,True,both
+257,670,openCan,She seems to just be opening her can of juice so she can drink it. She doesn't need anything from me. ,do,True,instrumental
+258,669,openSnack,She seems like she's wanting me to rip open the chip bag for her. ,show,True,both
+259,668,tweezeTweezer,"She seems to move her finger to want to pick up the tweezers but her hand isn't getting close to the tweezers which is making me feel like she wants me to do something for her. But, the motion was slight and unnatural so I can't truly understand her intentions. ",show,True,both
+260,667,swipePhone,"She seems to be on her phone swiping, minding her business. Since she is not looking at me or showing me her phone screen, I don't feel communicated to.",do,True,instrumental
+261,666,pressRemote,She wants me to pass the remote or turn the tv off or change the volume? But obviously she is doing a motion for me to see and do something for her. ,show,True,both
+262,665,dispenseSoap,"It looks like she's pumping a lotion bottle or something, but I think she definitely is communicating to me even if I don't understand her message. She would not move like that just to communicate to herself. ",show,False,both
+263,664,peelPostIt,"It was a slight hand movement so I don't know what she's trying to communicate but because her other hand is also in an unnatural setting, I feel like she is trying to get my attention somehow. ",show,False,both
+264,663,zipPlasticBag,She seems to be communicating me by doing a hand single obviously but I'm not sure what she wants. Possibly for me to close a ziploc bag?,show,True,both
+265,662,foldPaper,It seemed like she was just folding her paper and minding her business. ,do,True,instrumental
+266,661,sprayBottle,Moving their pointer finger slightly. possibly to get my attention about something not urgent. ,show,False,both
+267,660,igniteLighter,Putting their thumb down while their hand was up in a fist. ,do,False,instrumental
+268,688,flickTrash,"Since her flick was so light and her hand's distance from the popcorn was so far, I think she wants me to flick the popcorn for her. ",show,True,both
+269,689,openLid,She wants me to open the water bottle cap for her because she's doing the motion in the air while the water is close to me. either that or she wants me to pass her the bottle so she can open it herself. ,show,True,both
+270,706,closeJar,Closing a jar,do,True,instrumental
+271,691,drinkMug,Moved her hand back,do,False,instrumental
+272,719,openCan,Opening a can,do,True,instrumental
+273,718,snipScissors,Squeezing something,do,False,instrumental
+274,717,flickTrash,Flicking a ball of paper,do,True,instrumental
+275,716,openSnack,Tearing open a bag,do,True,instrumental
+276,715,chargePhone,Charging a phone,do,True,instrumental
+277,714,igniteLighter,Pressing down on something,do,False,instrumental
+278,713,crushBottle,Squeezing something,do,True,instrumental
+279,712,twistCube,Opening/closing a jar,do,True,instrumental
+280,690,eraseMark,Trying to erase a pencil mark,do,True,instrumental
+281,710,openLid,Opening a bottle,do,True,instrumental
+282,709,drawLine,Drawing a line,do,True,instrumental
+283,708,sprayBottle,Pressing down on the spray,do,True,instrumental
+284,707,pullTissue,Getting a tissue,do,True,instrumental
+285,705,openGluestick,Opening a glue stick,do,True,instrumental
+286,711,foldPaper,Folding a sheet of paper,do,True,instrumental
+287,692,blowCandle,Blowing out a candle,do,True,instrumental
+288,704,tapPhone,Pretending to hold a phone and tap on the screen,pretend,True,none
+289,693,dispenseSoap,Trying to measure something,do,False,instrumental
+290,694,pressRemote,Pretending to use the TV remote,pretend,True,none
+291,695,drinkCup,Drinking out of the cup,do,True,instrumental
+292,697,tweezeTweezer,Pinching something,do,True,instrumental
+293,696,peelPostIt,Tearing off a sticky note,do,True,instrumental
+294,699,insertAirpod,Pointing to their head,show,False,communicative
+295,700,foldNapkin,Demonstrating folding a napkin,show,True,communicative
+296,701,brushTableBroom,Turning the page of a book,do,False,instrumental
+297,702,swipePhone,Swiping on the phone,do,True,instrumental
+298,703,flipPage,Turning a page from the book,do,True,instrumental
+299,698,zipPlasticBag,Opening/closing a bag,do,True,instrumental
+300,738,openCan,She wants to scroll down using the mouse wheel.,show,False,both
+301,742,foldNapkin,Using a gaming device.,do,False,instrumental
+302,739,tapPhone,Using her phone.,do,True,instrumental
+303,740,peelPostIt,Wants someone to flip a something.,show,False,both
+304,741,crushBottle,Squeezing the water bottle.,do,True,instrumental
+305,743,sprayBottle,Wants to take a picture.,show,False,both
+306,721,tweezeTweezer,She used a hair pinch in the air.,do,True,instrumental
+307,745,pullTissue,I do not know.,unidentified,False,none
+308,746,snipScissors,Wants to cut something.,do,True,instrumental
+309,747,eraseMark,The person wants to erase that drawing.,do,True,instrumental
+310,748,drinkCup,She wants a sip of water.,do,True,instrumental
+311,749,igniteLighter,She wants to burn something.,show,True,communicative
+312,737,openGluestick,I do not know.,unidentified,False,none
+313,744,blowCandle,Whistling.,do,False,none
+314,736,flickTrash,The person wants to flick that piece of trash.,do,True,instrumental
+315,720,drawLine,The person moved her hand across the table holding both thumb and index finger.,do,False,instrumental
+316,734,twistCube,Solving the cube.,do,True,instrumental
+317,722,foldPaper,acting out putting down a sheet a paper.,pretend,True,none
+318,723,brushTableBroom,cleaning up a crumbled up piece of paper with a small broom.,do,True,instrumental
+319,724,pressRemote,acting out using a remote control.,pretend,True,none
+320,725,closeJar,The person needs help opening that jar.,do,True,instrumental
+321,726,openLid,The person wants to close that water bottle.,do,True,instrumental
+322,727,drinkMug,The person wants to drink what is inside that mug.,do,True,instrumental
+323,735,insertAirpod,Putting on earphones.,do,True,instrumental
+324,729,openSnack,The person wants to unwrap something. Maybe a candy wrapper.,do,True,instrumental
+325,730,swipePhone,The person wants to use the phone.,do,True,instrumental
+326,731,chargePhone,The person wants to charge the phone.,do,True,instrumental
+327,732,zipPlasticBag,The person wants to close the packet.,do,True,instrumental
+328,733,flipPage,The person is communicating to move somewhere.,show,True,both
+329,728,dispenseSoap,Using hand sanitizer.,do,True,instrumental
+330,763,swipePhone,swiping on a phone,do,True,instrumental
+331,762,peelPostIt,ripping of a sticky note from a pad,do,True,instrumental
+332,761,openSnack,opening a bag of chips,do,True,instrumental
+333,760,closeJar,closing a lid,do,True,instrumental
+334,759,foldNapkin,folding a paper towl,do,True,instrumental
+335,758,insertAirpod,putting in an airpod,do,True,instrumental
+336,755,openGluestick,opening a glue stick,do,True,instrumental
+337,756,flipPage,turning a page in a book,do,True,instrumental
+338,754,twistCube,solving a rubix cube,do,True,instrumental
+339,753,drawLine,drawing a line,do,True,instrumental
+340,751,chargePhone,plugging in a phone,do,True,instrumental
+341,764,tweezeTweezer,tweezing,do,True,instrumental
+342,757,drinkMug,lifting up a mug,do,False,instrumental
+343,765,openCan,opening a can,do,True,instrumental
+344,752,zipPlasticBag,zipping up a bag,do,True,instrumental
+345,766,foldPaper,folding something,do,True,instrumental
+346,750,tapPhone,acting out pressing a button on a phone,pretend,True,none
+347,778,igniteLighter,turning on a lighter,do,True,instrumental
+348,777,eraseMark,zipping something open or closed,do,False,instrumental
+349,776,crushBottle,grabbing a water bottle,do,True,instrumental
+350,775,pressRemote,changing the TV station,do,True,instrumental
+351,774,snipScissors,cutting something,do,True,instrumental
+352,779,openLid,unscrewing a lid ,do,True,instrumental
+353,772,flickTrash,flicking something,do,True,instrumental
+354,771,brushTableBroom,sweeping up some dirt with a dust pan,do,True,instrumental
+355,770,blowCandle,"blowing out a candle
+",do,True,instrumental
+356,769,drinkCup,drinking something,do,True,instrumental
+357,768,sprayBottle,spraying sunscreen,do,True,instrumental
+358,773,pullTissue,grabbing a tissue,do,True,instrumental
+359,767,dispenseSoap,pumping a squirt of hand sanitizer,do,True,instrumental
+360,437,blowCandle,seemed to be trying to blow out the candle,do,True,instrumental
+361,438,eraseMark,it kind of looked like they made the same gesture with their hand on the desk as the pencil park on the paper,pretend,False,none
+362,439,pressRemote,looked like miming remote clicking,pretend,True,none
+363,440,igniteLighter,flicked a lighter on,do,True,instrumental
+364,441,snipScissors,pinched their hand together,do,False,instrumental
+365,445,openLid,screwing cap off of water bottle,do,True,instrumental
+366,444,flickTrash,pinched fingers together. could be describing size,show,False,communicative
+367,446,chargePhone,plugging charger into phone,do,True,instrumental
+368,447,zipPlasticBag,"i think it's the same ""violin"" gesture as earlier but in reverse",pretend,False,none
+369,448,foldPaper,looked as if putting something on the table,do,True,instrumental
+370,436,drinkMug,bringing the mug up,do,True,instrumental
+371,449,swipePhone,swiping on phone,do,True,instrumental
+372,443,twistCube,turned a rubiks cube,do,True,instrumental
+373,435,drinkCup,looked like miming drinking a cup of water,pretend,True,none
+374,442,foldNapkin,made a gesture with both hands bringing fingers inwards,show,False,communicative
+375,433,closeJar,looked like miming screwing a lid on something,pretend,True,none
+376,434,openSnack,looked like miming ripping open a bag/opening something,pretend,True,none
+377,421,tapPhone,tapping something on their phone,do,True,instrumental
+378,422,openCan,bending their index finger towards the palm of their hand,do,False,instrumental
+379,423,flipPage,flipping a page in the book,do,True,instrumental
+380,424,brushTableBroom,sweeping their hand in the air. it kind of reminded me of a violin playing motion,pretend,True,none
+381,425,dispenseSoap,moving one hand up and down relative to their other hand that stayed still. looked like describing size of something,show,False,communicative
+382,420,crushBottle,"crumpling a water bottle
+",do,True,instrumental
+383,427,drawLine,sliding their hand with pinched fingers,do,True,instrumental
+384,428,sprayBottle,bending their finger,do,False,instrumental
+385,429,tweezeTweezer,tapped their thumb on the outside of their hand ,do,False,instrumental
+386,430,insertAirpod,moved their hand up to their ear,do,False,instrumental
+387,431,pullTissue,moved their hand in the air - kind of just looked like they were shifting ,do,False,none
+388,426,peelPostIt,ripping off a sticky note,do,True,instrumental
+389,432,openGluestick,moved one hand up relative to the other hand,do,False,instrumental
+390,861,flipPage,pretending to flip page,pretend,True,none
+391,862,eraseMark,moved one hand away from other on the desk...idk what they were trying to communicate,show,False,none
+392,863,pressRemote,using a remote,do,True,instrumental
+393,864,twistCube,acting like solving a rubicks cube,pretend,True,none
+394,865,flickTrash,acting like flicking something,pretend,True,none
+395,869,tweezeTweezer,using tweezers,do,True,instrumental
+396,868,openCan,opening a can,do,True,instrumental
+397,840,zipPlasticBag,zipping a bag,do,True,instrumental
+398,841,insertAirpod,putting an airpod in,do,True,instrumental
+399,842,pullTissue,moved hand a little bit,do,False,instrumental
+400,860,swipePhone,pretending to swipe on phone,pretend,True,none
+401,866,foldNapkin,folding a napkin,do,True,instrumental
+402,859,openSnack,maybe tearing something,do,False,instrumental
+403,867,drawLine,moving hand along desk,do,True,instrumental
+404,856,tapPhone,pretending to tap a phone,pretend,True,none
+405,858,chargePhone,pretending to plug in phone,pretend,True,none
+406,843,openGluestick,moved hand...maybe demonstratitng something,show,False,both
+407,844,sprayBottle,"bending finger 
+",do,False,instrumental
+408,845,foldPaper,folding paper,do,True,instrumental
+409,846,drinkCup,motion like they were tipping a water bottle ,do,False,instrumental
+410,847,drinkMug,moving their fist up,do,False,instrumental
+411,848,closeJar,opening a jar,do,True,instrumental
+412,857,dispenseSoap,squirting hand sanitizer,do,True,instrumental
+413,850,snipScissors,"closing hand, like demonstrating something is small or to be quiet",show,False,both
+414,851,brushTableBroom,sweeping,do,True,instrumental
+415,849,crushBottle,"curling hand inwards to themselves, maybe asking for the water",show,False,both
+416,852,blowCandle,blowing air,do,True,instrumental
+417,853,peelPostIt,moved one hand away from other hand,do,False,instrumental
+418,854,openLid,acting like twisting a bottle top off,pretend,True,none
+419,855,igniteLighter,acting like lighting a lighter,pretend,True,none
+420,888,drinkMug,seemed to be a clip of counting down for rock paper scissors.,show,False,communicative
+421,889,closeJar,opening a jar,do,True,instrumental
+422,890,openLid,twisting 2 fingers in the air,do,False,none
+423,891,openGluestick,opening chapstick,do,True,instrumental
+424,892,brushTableBroom,sweeping,do,True,instrumental
+425,894,drinkCup,drinking from a cup,do,True,instrumental
+426,887,sprayBottle,spraying a bottle in the air,do,True,instrumental
+427,895,flipPage,explaining a width of a goal post,show,False,communicative
+428,896,swipePhone,"swipes finger on hand,perhaps to support a demonstration/explanation",show,True,both
+429,897,foldPaper,folding a paper in half,do,True,instrumental
+430,898,flickTrash,"playing paper soccer, the person in front just ""kicked"" the ball",do,True,instrumental
+431,899,twistCube,opening a jar,do,True,instrumental
+432,893,igniteLighter,"pressing a button, perhaps pepperspray",do,False,instrumental
+433,886,pullTissue,getting a tissue,do,True,instrumental
+434,883,drawLine,drawing a line,do,True,instrumental
+435,884,dispenseSoap,getting hand sanitizer,do,True,instrumental
+436,882,zipPlasticBag,closing a ziploc,do,True,instrumental
+437,881,pressRemote,Pressing  a button on an invisible remote,do,True,instrumental
+438,880,snipScissors,cut the air,do,True,instrumental
+439,879,crushBottle,flexed hand mid conversation,show,False,communicative
+440,877,openSnack,Just opened a bag,do,True,instrumental
+441,876,foldNapkin,Seemed to play a hand game. index fingers were on top of the thumbs and slid back towards the hand.,pretend,False,none
+442,875,eraseMark,calmly attempted to erase the line.,do,True,instrumental
+443,874,openCan,Bent index finger.,do,False,instrumental
+444,873,insertAirpod,Appeared to reach for the airpod then decided not to. Possibly conveying sense of disinterest in a conversation.,show,False,both
+445,872,chargePhone,"The left hand, which was palm up open and the right hand which was palm up half closed moved toward each other in the center.",do,False,instrumental
+446,871,tapPhone,appeared to be counting something.,do,False,instrumental
+447,870,peelPostIt,moving hand to the side.,do,False,instrumental
+448,885,blowCandle,blowing a candle,do,True,instrumental
+449,878,tweezeTweezer,Just bent finger,do,False,instrumental
+450,238,tweezeTweezer,showing the act of closing the tweezers for use,show,True,communicative
+451,210,drinkMug,lifting up a fist,do,False,instrumental
+452,213,pressRemote,"Finger dropped. no meaning to this
+",unidentified,False,none
+453,214,foldNapkin,I did not understand. The hand movement made no sense,unidentified,False,none
+454,215,openSnack,The person wants to open the bag,do,True,instrumental
+455,216,igniteLighter,Light the lighter,do,True,instrumental
+456,217,snipScissors,seems like a gesture for quiteness,show,False,communicative
+457,218,openGluestick,I dont know,unidentified,False,none
+458,219,brushTableBroom,sweeping the paper,do,True,instrumental
+459,220,flipPage,Jumping over something or moving?,do,False,instrumental
+460,221,closeJar,opening a jar,do,True,instrumental
+461,222,twistCube,solving a rubix cube,do,True,instrumental
+462,223,flickTrash,annoying someone? flinging a paper across the table,show,True,communicative
+463,224,insertAirpod,put airpod in,do,True,instrumental
+464,212,drawLine,with the pencil in context I understood what it was saying but the gesture was not communicative,do,True,instrumental
+465,239,eraseMark,flipping a page,do,False,instrumental
+466,226,crushBottle,This has no meaning to me,unidentified,False,none
+467,227,openCan,no meaning,unidentified,False,none
+468,228,openLid,looks like shes trying to open something but im not sure,do,True,instrumental
+469,229,foldPaper,folding an object,do,True,instrumental
+470,230,tapPhone,"""using an iphone""",do,True,instrumental
+471,231,zipPlasticBag,zipping and unzipping a bag,do,True,instrumental
+472,232,peelPostIt,taking a post-it note off the pad,do,True,instrumental
+473,233,pullTissue,using a kleenex,do,True,instrumental
+474,234,chargePhone,plugging in iphohne,do,True,instrumental
+475,235,sprayBottle,not sure,unidentified,False,none
+476,236,swipePhone,"swiping something on phone, maybe the action of deleting",do,True,instrumental
+477,237,blowCandle,gesturing a blowing out of candles,show,True,communicative
+478,225,dispenseSoap,use hand sanitizer,do,True,instrumental
+479,211,drinkCup,shows the action of drinking from a cup,show,True,communicative
+480,418,pullTissue,hand in a pinching motion and swiping the hand up,do,True,instrumental
+481,390,chargePhone,"Held both of their hands up, one hand in a cupping motion and the other acted like it was holding a pencil",pretend,False,none
+482,417,insertAirpod,Raising their hand in a pinching motion and bringing the hand to their ear,do,False,communicative
+483,416,openGluestick,Taking off the cap of a glue stick or lip balm,do,True,instrumental
+484,415,igniteLighter,They acting as if they are holding a lighter and lighting it,pretend,True,none
+485,414,blowCandle,"Pursing their lips to make an ""o"" shape",do,False,instrumental
+486,413,swipePhone,One hand in a cupping formation with the other making a swiping motion above the other hand,pretend,True,none
+487,412,openSnack,Making a pinching motion in both hands and then twisting the hands in opposite directions,do,False,instrumental
+488,411,flickTrash,Making a flicking motion with their thumb and pointer finger,do,True,instrumental
+489,410,flipPage,Turning a page of a book,do,True,instrumental
+490,409,eraseMark,Trying to erase a pen marking with an eraser,do,True,instrumental
+491,408,zipPlasticBag,One hand in the fist with the other in a pinching motion. The hands started together with the pinching hand moving away from the other fist,pretend,True,none
+492,407,foldNapkin,Pointer fingers laid over their thumbs and then moved across the thumbs as their hands sat in the air,show,False,communicative
+493,406,openCan,Opening a bottle of juice,do,True,instrumental
+494,419,pressRemote,Pressing buttons on a TV remote,do,True,instrumental
+495,405,foldPaper,Folding a piece of paper in half,do,True,instrumental
+496,402,drinkCup,Cupping their hand as if they were holding something and then gesturing towards themselves,do,False,both
+497,401,closeJar,Performing the actions of unscrewing a jar,do,True,instrumental
+498,400,crushBottle,Squeezing a water bottle,do,True,instrumental
+499,399,drawLine,Hand formed almost like they're holding a pencil and moving it across the desk,do,True,instrumental
+500,398,snipScissors,Cutting scissors in the air,do,True,instrumental
+501,397,drinkMug,Raising their fist up towards themselves,do,False,instrumental
+502,396,sprayBottle,Spraying a sunscreen bottle,do,True,instrumental
+503,395,twistCube,they are mimicing the actions of solving a rubiks cube,pretend,True,none
+504,394,openLid,They're opening a water bottle lid,do,True,instrumental
+505,393,brushTableBroom,"Gesture felt similar to a movement a conductor would make, kind of like a motion of playing a string instrument",show,False,communicative
+506,392,peelPostIt,One hand in a fist the other acted as if it was pulling something like a rope away from the other hand,do,False,instrumental
+507,391,tapPhone,One open hand with the other hand pointing a finger and making a downwards motion towards their other hand,show,False,both
+508,403,dispenseSoap,Hands flat in the air with their palms facing opposite directions. They then moved one hand up and then brought it back down to be level with the other hand. ,do,False,instrumental
+509,404,tweezeTweezer,Making a pinching motion,do,True,instrumental
+510,0,snipScissors,"the girl was making a mouth closing motion with her hand, i was also distracted by the scissors that were large and in the frame",pretend,False,none
+511,15,openLid,"since there is a water bottle in front of me, i think she is asking for me to open it.",show,True,both
+512,1,openCan,"i assumed that since there is a can of apple juice, that the hand motion was communicating for me to nudge it towards her.she did a sort of ""bring to me"" motion",show,False,both
+513,2,pressRemote,"the girl was pressing an imaginary tv remote. since there is a remote in front of her, i would assume she is asking for the remote",pretend,True,both
+514,3,flickTrash,"it looks like she is just flicking dust away on the table, not really saying anything to me",do,True,instrumental
+515,4,chargePhone,"it looks as if she is pretending to hold a phone in her hand and plug in a cord. however, that doesn't really communicate much to me, and that was only the conclusion i came to after making an inference, it was not very obvious",pretend,False,none
+516,5,dispenseSoap,"she looks as if she is just using hand sanitizer, which does not involve me at all",do,True,instrumental
+517,6,drawLine,"she is making a mark on a paper. it looks as if she may be starting to draw or write something that could communicate a message, but just a line does not tell me very much for now. ",do,True,instrumental
+518,7,drinkCup,"she was taking a sip of a drink. that does not really involve me. if she is drinking something, she is not talking to me. ",do,True,instrumental
+519,8,closeJar,"she is making a motion like she is opening a jar. if there was a jar in front of me that i needed help opening, this would effectively communicate that she would help me.",show,True,both
+520,9,sprayBottle,"she is making a motion as if she is spraying something in a bottle. since there is a bottle of sunscreen, this can communicate that she wants a turn to use the sunscreen.",pretend,True,both
+521,10,igniteLighter,"she seems to just to be using a lighter, which doesn't really involve me.",do,True,instrumental
+522,11,tapPhone,"she's using her phone, which does not involve me.",do,True,instrumental
+523,12,insertAirpod,"if she is putting in airpods to listen to her own music, that would not involve me at all and be a 1. my assumption could be that since we are at a table together and she is only putting in one airpod, that we could be sharing music through airpods which could connect us. ",do,True,instrumental
+524,13,peelPostIt,"the motion looked like tearing a paper to me. if we were in class and a teacher said we only needed half sheets of paper, i would assume that this motion meant for me to tear the paper in half and give her the other. ",pretend,False,both
+525,29,tweezeTweezer,she presses her thumb into her other fingers. this looks like something someone does when they're fidgeting while nervous. i don't really understand how it involves me,do,False,none
+526,16,swipePhone,"it looks as if she is sending a text from her phone, but i'm not sure if this is to me? it depends on the situation, but this could either be rude or be her communicating with me",show,True,both
+527,28,pullTissue,"she looks to be motioning for me to pick something up? but since there is nothing in frame to inform me of what, i kind of don't understand what she is referring to",show,False,both
+528,27,foldNapkin,"she seems to be folding a napkin, which doesn't really involve me",do,True,instrumental
+529,26,blowCandle,"she was blowing out a candle. the smoke comes over and gets in my face, which is RUDE!!!! i guess blowing out a candle could signal the end of our time together, but the smoke blowing over into my face was very off putting so i put a 1 because that's very inconsiderate of me. ",do,True,both
+530,14,flipPage,"since there is a book in front of her, i would assume this is communicating for me to turn the page.",show,True,both
+531,24,twistCube,"she looks as if she is turning a dial in her hand, but since there's no context clues or objects to let me know what she is referencing and the gesture itself is not that distinctive, i kind of don't know what she is trying to communicate",unidentified,True,none
+532,23,openGluestick,"there is chapstick on the table between us, which i'm assuming belongs to me. she is making a motion like taking the cap off of the chapstick, which to me clearly communicates she wants me to open it so she can use the chapstick. ",show,True,both
+533,25,eraseMark,"there is a paper with a streak on it and an eraser in the frame. she made a motion like that of the streak, so i assumed she is asking for me to erase the streak. ",show,True,both
+534,21,foldPaper,"from the motion and the paper in front of her, i'm assuming this is her asking for me to help her fold the paper, which is pretty clear in this situation. ",show,True,both
+535,20,openSnack,"it looks as if she is just opening a bag of chips. i don't know if they are just for her or if they are to share with me? if she is opening a bag just for herself, that does not really communicate with me. but if we are sharing, that's like a 4 because then she's signaling ""let's eat this together!""",do,True,both
+536,19,zipPlasticBag,"it looks as if she is closing a ziploc bag. if we're sharing snacks and she does this motion to me, i know she is good and i can close the bag. ",show,True,both
+537,18,drinkMug,"she looks as if she is just looking at a coffee mug. her concerned expression kind of says maybe ""hey this is weird"" or something, but since it is oriented towards her and she is not extending it in my direction, i feel that it does not involve me very much.",do,False,none
+538,17,brushTableBroom,"i have no idea what that motion was supposed to mean. i feel like motions are important to CLEARLY communicate something, so if i do not understand what she is trying to say with the gesture, i don't think she is communicating anything.",unidentified,False,none
+539,22,crushBottle,"she looks as if she is crushing a pretend water bottle in her hand. since there is an empty water bottle in front of me, i assumed that she is asking for it so she can crush it and throw it away.",pretend,True,both
+540,916,drawLine,She is showing how to draw a line with a pencil on a piece of paper.,show,True,both
+541,917,openGluestick,She is opening a glue stick.,do,True,instrumental
+542,918,drinkCup,"She is showing the hand motions of drinking from a cup, with a cup placed in front of her.",show,True,communicative
+543,919,igniteLighter,She is showing how to turn on a lighter.,show,True,both
+544,920,crushBottle,"She is showing what happens if you slightly poke an empty water bottle, how it easily moves.",show,True,communicative
+545,927,openLid,She is opening a water bottle.,do,True,instrumental
+546,922,blowCandle,She is showing how to whistle or blow.,show,True,both
+547,923,pullTissue,She is raising her fist slightly.,do,False,instrumental
+548,924,openCan,She is showing how to open a can of apple juice.,show,True,both
+549,925,openSnack,"She is showing the hand motions of opening a bag of chips, with a bag of chips placed in front of her.",show,True,both
+550,926,swipePhone,"She is showing how to swipe on a phone, with a phone placed in front of her on a desk.",show,True,both
+551,915,closeJar,She has a jar in her hand and is showing how to open it.,show,True,both
+552,921,chargePhone,It looks like she is showing the hand motions of how to load a gun (but with no real gun anywhere around her).,show,False,communicative
+553,914,pressRemote,"She is showing the hand motions of turning on a TV with a remote, with a real remote placed in front of her.",show,True,both
+554,907,peelPostIt,She appears to be nonverbally explaining the hand motions of opening a zipper.,show,False,communicative
+555,912,foldPaper,She is showing the hand motions of placing an object on a table.,show,True,communicative
+556,911,brushTableBroom,She is showing how to use a dustpan and broom.,show,True,both
+557,910,snipScissors,She is showing the hand motions of using a pair of scissors.,show,True,communicative
+558,909,flipPage,She is showing the hand motions of flipping a page in a book,show,True,communicative
+559,908,foldNapkin,She appears to be nonverbally explaining the hand motions of pulling something toward you.,show,False,communicative
+560,906,zipPlasticBag,She is nonverbally explaining the hand motions of opening a ziploc bag.,show,True,communicative
+561,905,insertAirpod,It looks like she is just pinning her hair behind her ear.,do,False,instrumental
+562,904,sprayBottle,She is moving her pointer finger down and upward.,do,False,instrumental
+563,903,drinkMug,She is raising her fist slightly.,do,False,instrumental
+564,902,dispenseSoap,She is pumping hand sanitizer onto her hand with no facial expression.,do,True,instrumental
+565,901,twistCube,"She was non verbally explaining the hand motions of solving a rubix cube, but with no expression.",show,True,communicative
+566,928,flickTrash,She is flicking a piece of paper on the desk.,do,True,instrumental
+567,900,tapPhone,She was tapping her finger against her hand with no expression.,do,True,none
+568,913,tweezeTweezer,"She is showing the hand motions of how to use tweezers, with a pair of tweezers in front of her.",show,True,both
+569,929,eraseMark,She is erasing a line on a paper.,do,True,instrumental
+570,481,tapPhone,"Pressing a button on her phone, perhaps showing how to work something on her phone",show,True,both
+571,482,pullTissue,Pulling a tissue from the box,do,True,instrumental
+572,480,igniteLighter,Showing how to activate the lighter,show,True,both
+573,509,swipePhone,"It appears that she is swiping on her phone, maybe going to the next picture or sliding to the next page",do,True,instrumental
+574,508,drawLine,She is showing how to draw a straight line on the paper with the pencil,show,True,both
+575,507,openGluestick,She is showing how to pop the cap off the tube of chapstick,show,True,both
+576,506,snipScissors,It looks as if she is saying to be quiet because she is closing her fingers together,show,False,both
+577,505,brushTableBroom,She is showing how to brush the trash into the tray,show,True,both
+578,504,tweezeTweezer,"I am not quite sure what she is doing, perhaps grabbing onto something? Not sure why she uses he thumb to press",unidentified,False,none
+579,503,insertAirpod,She is putting an earbud into her ear,do,True,instrumental
+580,501,drinkCup,She looks to be bringing a can to her face to look into it or to drink from it,do,True,both
+581,500,openLid,She is showing how she would unscrew the cap off the plastic water bottle,show,True,both
+582,499,zipPlasticBag,She looks to be zipping up a plastic zip-lock bag,do,True,instrumental
+583,498,foldNapkin,She is folding the tissue into a triangle,do,True,instrumental
+584,497,flickTrash,She is mimicking how she would flick the crumpled up paper away,pretend,True,none
+585,502,twistCube,"I am not quite sure what she is doing, she is making a twisting motion with her hands",unidentified,True,none
+586,495,sprayBottle,"She is spraying a scented pump, maybe a dry shampoo or some type of aerosol can ",do,True,instrumental
+587,496,openCan,She is popping the tab on the can of juice,do,True,instrumental
+588,484,flipPage,"Without context it is hard to tell, perhaps showing how to get from point A to point B, showing some distance covered",show,False,both
+589,485,peelPostIt,Ripping a sticky note off of the sticky pad,do,True,instrumental
+590,486,dispenseSoap,Showing how to get hand sanitizer from the bottle by pushing down on the pump with her hand underneath it to catch the sanitizer,show,True,both
+591,487,foldPaper,She is folding a paper in half,do,True,instrumental
+592,488,eraseMark,She is showing how to use the eraser to get rid of the pencil line,show,True,both
+593,483,closeJar,Unscrewing the cap off of the jar,do,True,instrumental
+594,490,chargePhone,She is plugging in her phone with a charger,do,True,instrumental
+595,491,pressRemote,"It appears that she is pressing down a button on a remote, perhaps for a TV",do,True,instrumental
+596,492,drinkMug,"She is peering into her mug, perhaps looking to see how much is left",do,True,instrumental
+597,493,crushBottle,"She may be grabbing hold of something? It is hard to tell
+",do,False,instrumental
+598,494,openSnack,"She looks as if she is ripping a piece of paper, tearing the top",do,False,instrumental
+599,489,blowCandle,She is blowing out the candle,do,True,instrumental
+600,947,zipPlasticBag,unzipping a bag,do,True,instrumental
+601,948,openCan,motioning how to scroll on a mouse,show,False,both
+602,949,pressRemote,pressing a button on TV remote,do,True,instrumental
+603,950,brushTableBroom,swiping her hand towards the other hand,do,False,instrumental
+604,951,tweezeTweezer,pinching the tweezers,do,True,instrumental
+605,954,twistCube,twisting a rubix cube,do,True,instrumental
+606,953,insertAirpod,demonstrating how to put an AirPod in your ear,show,True,both
+607,955,crushBottle,squeezing an empty water bottle,do,True,instrumental
+608,956,drawLine,drawing a straight line,do,True,instrumental
+609,957,pullTissue,demonstrating how to pull out a tissue from the tissue box,show,True,both
+610,946,dispenseSoap,clapping with hands apart,do,False,instrumental
+611,952,swipePhone,swiping on her phone,do,True,instrumental
+612,945,openLid,unscrewing a bottle cap (the motion),do,True,instrumental
+613,930,foldNapkin,"bringing her finger towards her
+",do,False,instrumental
+614,943,openGluestick,peeling carrots with a peeling tool (that motion),do,False,instrumental
+615,942,snipScissors,closing the scissors,do,True,instrumental
+616,941,foldPaper,demonstrating how to fold the paper,show,True,communicative
+617,940,drinkCup,lifting and tipping the cup towards her mouth,do,True,instrumental
+618,939,chargePhone,demonstrating how to charge the phone by showing the motion of plugging the charger in the phone,show,True,both
+619,938,flipPage,flipping a page in a book,do,True,instrumental
+620,937,igniteLighter,clicking something with her thumb,do,False,instrumental
+621,936,blowCandle,blowing as if blowing out the candle (just demonstration though),show,True,communicative
+622,935,tapPhone,showing how to tap on the phone,show,True,both
+623,934,sprayBottle,imitating how to spray the spray can,pretend,True,none
+624,933,eraseMark,"sliding her hand forwards, kind of like writing but not really",do,False,instrumental
+625,932,flickTrash,flicking something towards me,show,True,both
+626,931,peelPostIt,"imitating ripping a paper off the notepad
+",pretend,True,none
+627,944,openSnack,opening a bag of chips,do,True,instrumental
+628,958,drinkMug,lifting the cup to drink (the motion),do,True,instrumental
+629,959,closeJar,opening a big cap (the motion),do,True,instrumental
+630,976,openSnack,made the motion of tearing a piece of paper,pretend,False,none
+631,989,crushBottle,folded in her fingers towards her hand ,do,False,instrumental
+632,988,closeJar,screwed a little on a jar,do,True,instrumental
+633,987,peelPostIt,peeled off a post-it note ,do,True,instrumental
+634,986,insertAirpod,replicated the hand motion of picking up and airpod and putting in her ear,pretend,True,none
+635,985,blowCandle,blew out a candle,do,True,instrumental
+636,984,openCan,lifted up her hand and moved one finger in and out ,do,False,instrumental
+637,983,snipScissors,opened and closed a pair of scissors,do,True,instrumental
+638,982,openGluestick,made the hand motion of replicating taking the lid off a chapstick tube ,pretend,True,none
+639,981,pullTissue,moved hand to replicate picking up a tissue out of the box ,pretend,True,none
+640,980,drawLine,made the hand motion of drawing a straight line ,pretend,True,none
+641,979,drinkMug,lifted up a mug,do,False,instrumental
+642,978,swipePhone,made the hand motion of swiping on a phone screen,show,True,communicative
+643,977,flipPage,turned a book page,do,True,instrumental
+644,962,chargePhone,holding her hand up in front of her,do,False,instrumental
+645,975,sprayBottle,moved her finger to demonstrate spraying the sunscreen,show,True,both
+646,974,drinkCup,moving hand as if lifting up a glass of water to drink,do,True,instrumental
+647,973,brushTableBroom,sweeping trash up,do,True,instrumental
+648,972,openLid,unscrewing a water bottle lid,do,True,instrumental
+649,971,igniteLighter,made the hand motion as if using a lighter,show,True,none
+650,970,flickTrash,moved hand as if flicking something across the table,do,True,instrumental
+651,969,tapPhone,tapping on a phone,do,True,instrumental
+652,968,zipPlasticBag,making a zipper motion ,do,True,instrumental
+653,967,foldPaper,moving hands as if putting something down on the table ,do,True,instrumental
+654,966,twistCube,motioning turning something in her hand,show,True,communicative
+655,965,pressRemote,motioning using a remote,show,True,communicative
+656,961,eraseMark,moving her hand on the table,do,False,instrumental
+657,964,foldNapkin,"holding up both hands in front of her, moving her fingers ",do,False,instrumental
+658,963,tweezeTweezer,pinching her fingers together,do,True,instrumental
+659,960,dispenseSoap,using hand sanitizer,do,True,instrumental
+660,116,drinkMug,"From the cup placed in front of the person, it suggests that their motion has to do something with the cup. Specifically, they are holding an invisible cup and is bringing it up to their mouth to take a sip out of it.",do,True,instrumental
+661,90,openGluestick,The person is lifting their hands.,do,False,instrumental
+662,91,flipPage,"The person is going through the motions of flipping a book, but is not actually flipping the pages.",pretend,True,none
+663,92,openLid,The person is going through the motions of opening a water bottle. They are not actually opening the bottle that is placed in front of them.,pretend,True,none
+664,93,foldPaper,The person is folding a paper.,do,True,instrumental
+665,94,tweezeTweezer,The person is using a tweezer.,do,True,instrumental
+666,95,sprayBottle,The person's pointer finger is bending down to potentially click something?,do,False,instrumental
+667,96,closeJar,The person is going through the motions of unscrewing a cap but is not actually unscrewing the jar placed in front of them.,pretend,True,none
+668,97,brushTableBroom,The person is gesturing a sweeping motion but is not actually using the sweeper placed in front of them.,show,False,communicative
+669,98,snipScissors,The person is going through the motions of cutting/using the scissors. They are not actually using the scissors in front of them. ,pretend,True,none
+670,99,flickTrash,The person is flicking/flinging a piece of paper.,do,True,instrumental
+671,100,insertAirpod,The person is bringing something up to their ear. (The object does not actually exist.),do,True,instrumental
+672,101,zipPlasticBag,The person is zipping a bag up.,do,True,instrumental
+673,102,pressRemote,"The person is pressing something with their thumb, except we don't know what item they are pressing on.",do,True,instrumental
+674,103,tapPhone,"From the phone placed in front of them, it suggests that they are holding a ""pretend"" phone while tapping on it.",pretend,True,none
+675,104,swipePhone,The person is swiping on an invisible object.,do,True,instrumental
+676,105,foldNapkin,The person is folding up a napkin in half. ,do,True,instrumental
+677,107,chargePhone,The person is shifting both of their hands towards each other. ,do,False,instrumental
+678,108,igniteLighter,The person is pressing on their hand with their thumb. ,do,False,instrumental
+679,109,openSnack,The person is opening up a bag of chips.,do,True,instrumental
+680,110,peelPostIt,"From the post-it notes placed in front of the person, it suggests that from their motions they are peeling a post-it note.",do,True,instrumental
+681,111,dispenseSoap,"From the bottle placed in front of the person, it suggests that the person's motions is pumping the bottle.",do,False,instrumental
+682,112,twistCube,The person is twisting the Rubrik cube. ,do,True,instrumental
+683,113,drinkCup,The person is bringing a cup up to their mouth and is about to take a sip from it.,do,True,instrumental
+684,114,openCan,The person is opening a can of apple juice. ,do,True,instrumental
+685,115,blowCandle,The person attempts to blow out the candle. ,do,True,instrumental
+686,119,eraseMark,The person has one of their hands faced down while the other hand is moving away. ,do,False,instrumental
+687,117,drawLine,The person is drawing a line across the paper with the pencil they are holding in their hand.,do,True,instrumental
+688,118,crushBottle,The person is squeezing their hand.,do,True,instrumental
+689,106,pullTissue,The person is moving their hand up.,do,False,instrumental
+690,990,chargePhone,Charging their phone,do,True,instrumental
+691,993,foldPaper,They were laying the sheet of paper out.,do,True,instrumental
+692,994,flickTrash,She was flicking the crumpled up piece of paper.  ,do,True,instrumental
+693,995,openCan,She was opening the canned drink.,do,True,instrumental
+694,997,pressRemote,Pressing keys on her remote.,do,True,instrumental
+695,998,pullTissue,Taking out a tissue,do,True,instrumental
+696,999,drinkCup,Sipping from a cup,do,True,instrumental
+697,1000,closeJar,Opening a jar,do,True,instrumental
+698,1001,flipPage,Moving her hand from one thing to the other... not quite clear.,do,True,instrumental
+699,1002,twistCube,Solving a Rubix cube,do,True,instrumental
+700,1003,foldNapkin,Folding a napkin,do,True,instrumental
+701,1004,blowCandle,Either blowing or whistling through her mouth.,do,True,instrumental
+702,1005,igniteLighter,Turning on a lighter,do,True,instrumental
+703,992,drinkMug,I honestly don't know.  It just looked like they were putting a fist up.  ,unidentified,False,none
+704,1006,sprayBottle,Spraying a bottle,do,True,instrumental
+705,1008,swipePhone,Swiping on her phone.,do,True,instrumental
+706,1009,insertAirpod,Putting an ear bud in,do,True,instrumental
+707,1010,brushTableBroom,No idea. She just brushed her hand,unidentified,True,none
+708,1011,openLid,Opening a cap,do,True,instrumental
+709,1012,dispenseSoap,Pumping out lotion,do,True,instrumental
+710,1013,snipScissors,Squeezing something,do,False,instrumental
+711,1014,crushBottle,Crumpling up a water bottle,do,True,instrumental
+712,1015,tweezeTweezer,Using tweezers,do,True,instrumental
+713,1016,eraseMark,Erasing a pencil mark on a sheet of paper,do,True,instrumental
+714,1017,zipPlasticBag,Zipping a bag up,do,True,instrumental
+715,1018,peelPostIt,"Ripping a sheet of paper?
+",do,False,instrumental
+716,1019,tapPhone,Using her phone,do,True,instrumental
+717,1007,drawLine,Drawing a straight line with a pencil.,do,True,instrumental
+718,991,openSnack,"I think they are showing me how to open the bag of chips with their hands.  
+",show,True,both
+719,996,openGluestick,Opening her lip balm (or some variation of lip product),do,True,instrumental
+720,360,igniteLighter,asking for lighter,show,True,both
+721,389,flickTrash,flicking something across table,do,True,instrumental
+722,388,drinkMug,looking into empty coffee mug,do,True,instrumental
+723,387,insertAirpod,pretending to put in an airpod/earbud,pretend,True,none
+724,386,openCan,playing with soda can topper,do,True,instrumental
+725,385,openGluestick,uncapping chapstick,do,True,instrumental
+726,384,snipScissors,miming use of scissors (to close or cut something),pretend,True,none
+727,383,openLid,unscrewing cap on plastic water bottle,do,True,instrumental
+728,382,blowCandle,breathing out,do,True,instrumental
+729,381,openSnack,miming tearing a wrapper?,pretend,False,none
+730,361,sprayBottle,not sure,unidentified,False,none
+731,379,eraseMark,erase the mark,do,True,instrumental
+732,378,pullTissue,arm gesture,show,False,none
+733,377,closeJar,unscrew lid,do,True,instrumental
+734,376,swipePhone,"swiping away a text/message on phone; not communicating, but I would do something similar if I was bored in a conversation, so it might count as nonverbal communication",do,True,instrumental
+735,375,drawLine,drawing a line,do,True,instrumental
+736,380,pressRemote,changing channel by clicking TV remote,do,True,instrumental
+737,362,zipPlasticBag,mimimg closing a ziplock bag,pretend,True,none
+738,374,tapPhone,communicating that I should press the phone,show,True,both
+739,363,dispenseSoap,putting on hand sanitizer,do,True,instrumental
+740,364,crushBottle,"some sort of hand movement, not communicative",do,False,instrumental
+741,365,peelPostIt,asking for post it note,show,True,both
+742,367,flipPage,"not sure, if i was telling a story to a friend i might use a similar hand movement depending on situation",show,True,both
+743,366,foldPaper,miming folding the piece of paper in half,pretend,True,none
+744,369,twistCube,showing how to turn rubics cube,show,True,both
+745,370,tweezeTweezer,some sort of click?,do,False,instrumental
+746,371,foldNapkin,folding napkin; i might do something similar if conversation/meal was wrapping up,do,True,instrumental
+747,372,chargePhone,not sure,unidentified,False,none
+748,373,brushTableBroom,telling me to sweep up the straw wrapper,show,True,both
+749,368,drinkCup,sipping coffee/beverage,do,True,instrumental
+750,1038,igniteLighter,gesturing pressing a button,show,False,communicative
+751,1042,openGluestick,gesturing uncapping chapstick while a tube of chapstick was on the table,show,True,both
+752,1039,sprayBottle,spraying a bottle,do,True,instrumental
+753,1040,openSnack,opening a bag of food,do,True,instrumental
+754,1041,peelPostIt,gesturing tearing open a bag of food,show,True,communicative
+755,1043,drinkMug,gesturing drinking out a mug while a mug was in front of my POV,show,True,both
+756,1049,tapPhone,gesturing tapping on a phone,show,True,communicative
+757,1045,twistCube,moving one hand towards themselves while the other hand was stretched towards my POV,do,False,both
+758,1046,brushTableBroom,"moving one hand across their body while the other hand stayed stationary and stretched towards my POV, most likely gesturing something",show,False,both
+759,1047,closeJar,gesturing opening a jar or bottle,show,True,communicative
+760,1048,foldNapkin,"pointing to themselves while napkins were on the table, likely asking for the napkins to be passed towards them",show,True,both
+761,1020,crushBottle,"clenching their fist
+",do,False,instrumental
+762,1044,eraseMark,"moving their hands over the table, most likely gesturing something",show,False,communicative
+763,1023,flipPage,"turning a page in a book
+",do,True,instrumental
+764,1037,dispenseSoap,gesturing using a bottle of hand sanitizer while a bottle of hand sanitizer was on the table,show,False,both
+765,1035,insertAirpod,putting in an airpod,do,True,instrumental
+766,1036,openCan,gesturing opening a can while a can is on the table,show,True,communicative
+767,1022,tweezeTweezer,squeezing tweezers,do,True,instrumental
+768,1024,pullTissue,taking a tissue from a box,do,True,instrumental
+769,1025,pressRemote,gesturing a remote control while the remote control was in front of them,show,True,communicative
+770,1026,drawLine,gesturing drawing a line while a pencil and paper was in front of my POV,show,True,communicative
+771,1027,foldPaper,gesturing moving something forward,show,True,communicative
+772,1021,chargePhone,charging their phone,do,True,instrumental
+773,1029,swipePhone,gesturing swiping on a phone while the phone was on the table,show,True,both
+774,1030,drinkCup,gesturing pouring the cup towards themselves while the cup was on the table,show,False,both
+775,1031,snipScissors,squeezing their fingers together likely indicating to quiet down/stop talking,show,False,both
+776,1032,zipPlasticBag,sealing a ziploc bag,do,True,instrumental
+777,1033,openLid,gesturing opening a water bottle while a water bottle was on the table,show,True,both
+778,1028,flickTrash,flicking a small paper ball towards my POV,show,True,both
+779,1034,blowCandle,blowing out a candle,do,True,instrumental
+780,197,swipePhone,Miming scrolling on a phone,pretend,True,none
+781,198,blowCandle,Attempting or demonstrating blowing out a candle,show,True,both
+782,199,twistCube,Solving a rubix cube,do,True,instrumental
+783,200,eraseMark,Attempting to erase something on paper,do,True,instrumental
+784,201,dispenseSoap,Perhaps miming measuring something,pretend,False,none
+785,205,drawLine,Miming drawing something,pretend,True,none
+786,204,crushBottle,Squeezing an empty water bottle,do,True,instrumental
+787,196,pressRemote,Miming clicking a remote,pretend,True,none
+788,206,tapPhone,They're doing something on their phone,do,True,instrumental
+789,208,tweezeTweezer,Miming using tweezers,pretend,True,none
+790,209,igniteLighter,Using a lighter,do,True,instrumental
+791,202,snipScissors,Miming cutting something using scissors,pretend,True,none
+792,195,foldPaper,Folding paper,do,True,instrumental
+793,207,peelPostIt,Pulling out a sticky note,do,True,instrumental
+794,193,pullTissue,Miming pulling out a tissue from a tissue box,pretend,True,none
+795,194,sprayBottle,Miming spraying sunblock,pretend,True,none
+796,180,chargePhone,Miming plugging a charger into a phone,pretend,True,none
+797,181,closeJar,Opening a jar,do,True,instrumental
+798,182,openSnack,"Miming opening a bag of chips, attempting to get the viewer to do so, or help with",pretend,True,both
+799,183,openGluestick,Perhaps miming opening a bottle,pretend,True,none
+800,184,flickTrash,Miming flicking a piece of trash,pretend,True,none
+801,185,zipPlasticBag,Miming closing a zip lock bag,pretend,True,none
+802,203,insertAirpod,Miming putting an airpod in their ear,pretend,True,none
+803,187,drinkMug,"Miming lifting something up, maybe drinking",pretend,True,none
+804,188,openCan,"Miming rolling something, or bekoning",pretend,False,none
+805,189,foldNapkin,Miming pulling something in with their forefingers and thumbs,pretend,False,none
+806,190,openLid,Miming unscrewing a bottle,pretend,True,none
+807,191,brushTableBroom,Cleaning up a piece of trash,do,True,instrumental
+808,186,flipPage,Miming turning a page,pretend,True,none
+809,192,drinkCup,Miming drinking something,pretend,True,none
+810,1068,swipePhone,"The person has one flat hand out while the other hand has one finger that is swiping away from her hand. To me, this indicates scrolling on a phone.",show,True,communicative
+811,1069,drinkCup,The person has her hand in a cupping motion and is moving that hand closer to her. This could indicate that she is thirsty or in need of a beverage.,do,True,instrumental
+812,1070,drawLine,"The person is imitating holding a pencil and moving her hand horizontally, telling me that she wants me to draw a straight line with the pen and paper in front of us. ",pretend,True,both
+813,1071,foldNapkin,The person is folding a paper diagonally into a triangle.,do,True,instrumental
+814,1072,zipPlasticBag,The person is sealing a plastic bag,do,True,instrumental
+815,1074,openSnack,The person is opening a bag of chips,do,True,instrumental
+816,1067,igniteLighter,"The person has one finger out while the rest of her hands make a fist. She is moving the finger up and down, but I am not too sure what she is signaling. This kind of looks like she is pushing down the top of a pen.",pretend,False,none
+817,1075,eraseMark,The person is moving one finger in one hand away from her other hand that lays flat on the table,do,False,instrumental
+818,1076,peelPostIt,The person is using one hand to pull something apart from her other hand,do,True,instrumental
+819,1077,tweezeTweezer,The person has her hand in a fist while the thumb taps the outside of her index finger.,do,False,instrumental
+820,1078,twistCube,The person is turning her hand as a way to indicate that she wants me to turn the sides of the rubix cube that is in front of us.,show,True,both
+821,1079,dispenseSoap,The person is indicating that she wants to use some hand sanitizer,show,True,both
+822,1073,openGluestick,"The person has one hand in a gripping motion while the other pulls away from the gripped hand. There is a glue stick in front of us, indicating that she wants me to open the cap of the glue.",show,True,both
+823,1066,openCan,The person is opening a can in front of me,do,True,instrumental
+824,1063,sprayBottle,"The person has one finger up and moved it up and down, but I don't exactly know what that gesture means",show,False,none
+825,1064,insertAirpod,The person uses a picking up motion and signals that she wants me to use the earbud that is in front of us,show,True,both
+826,1062,openLid,"The person is opening the cap of an empty water bottle
+",do,True,instrumental
+827,1061,pullTissue,The person is grabbing the tissue out of a tissue box ,do,True,instrumental
+828,1060,crushBottle,"The person is closing their fist, but they did not close their first very hard so it's difficult to tell what they are communicating. ",show,False,none
+829,1059,snipScissors,"The person is closing their fingers together, which could tell me that someone is talking and needs to be quiet. Her hand signal looked like the the same sign people use to indicate that someone is talking.",show,False,both
+830,1057,brushTableBroom,The person is signaling that they want me to sweep up the paper using the broom that is sitting in front of us.,show,True,both
+831,1056,closeJar,The person is signaling that they want me to close the lid on the jar that is in front of us.,show,True,both
+832,1055,blowCandle,The person is blowing out the candle,do,True,instrumental
+833,1054,foldPaper,"I honestly can't really tell what this person is doing. They are moving their hands forward and out towards me, but I don't know what they are asking me to do.",unidentified,False,both
+834,1053,chargePhone,The person is signaling that they want to plug in their phone.,show,True,both
+835,1052,flickTrash,"The person is flicking paper towards my direction, which I feel like is either playful or rude depending on my relationship with the person.",show,True,both
+836,1051,pressRemote,"The person is pointing the remote at me and changing the channels, which I feel is slightly rude. ",show,True,both
+837,1050,drinkMug,The person is raising their mug up to their mouth.,do,True,instrumental
+838,1065,flipPage,"The person imitates the flipping page motion, indicating that she wants me to flip the page of the book in front of us.",pretend,True,both
+839,1058,tapPhone,"The person is tapping her hand, indicating that she wants me to check the phone that is in front of us.",show,True,both
+840,539,sprayBottle,something smells and they want it to smell good ,show,True,both
+841,538,flickTrash,they want a clean environment and they want to flick the mess off ,do,True,both
+842,537,pressRemote,showing them that the remote is used like this and you have to press on the buttons ,show,True,both
+843,510,dispenseSoap,"a little clap
+",do,False,none
+844,511,drawLine,writing then pulling away,do,True,instrumental
+845,512,tapPhone,saying no,show,False,communicative
+846,513,blowCandle,blowing a candle ,do,True,instrumental
+847,514,foldNapkin,like shes in trouble and asking you to come here ,show,False,both
+848,515,igniteLighter,going to burn something ,do,True,instrumental
+849,517,drinkMug,im not sure ,unidentified,False,none
+850,518,foldPaper,folding the paper to hide a bad score ,do,True,instrumental
+851,519,drinkCup,drinking ,do,True,instrumental
+852,520,openCan,they want to drink it but shouldnt have it ,show,True,both
+853,521,tweezeTweezer,theyre mad and are using that because they want to let them know theyre mad ,show,False,both
+854,522,pullTissue,they want a tissue but not too sure if they should get one,do,True,both
+855,516,eraseMark,trying to ease it,do,False,instrumental
+856,524,brushTableBroom,playing an invisible instrument ,pretend,False,none
+857,523,zipPlasticBag,trying to show someone how to open the bag ,show,True,both
+858,536,snipScissors,no communication just showing scissors ,show,True,none
+859,535,crushBottle,annoyed /mad/frustrated something didnt happen correctly or went their way,do,False,none
+860,534,peelPostIt,they are mad they have to study ,do,False,none
+861,533,openLid,saying yeah you opened it correctly and now this is how you are able to drink it but twisting it like this. all the way off,show,True,both
+862,531,flipPage,"this one or that one 
+",unidentified,False,none
+863,532,chargePhone,"putting something into another thing??
+im not really sure ",do,False,instrumental
+864,529,openSnack,they wanted to open one way but you are telling them it is open this way ,show,True,both
+865,528,openGluestick,"being like ""oh man"" like as if something didnt go their way",pretend,False,none
+866,527,twistCube,"rotating something 
+",do,True,instrumental
+867,526,closeJar,showing someone that is the correct way to open something ,show,True,both
+868,525,swipePhone,dont know what to do on their phone ,unidentified,True,none
+869,530,insertAirpod,they need to listen ,do,False,instrumental
+870,316,openGluestick,Opening their chapstick.,do,True,instrumental
+871,320,openSnack,Telling me to tear something.,show,False,both
+872,317,drinkCup,Telling me to drink.,show,True,both
+873,318,blowCandle,Whistling,do,False,none
+874,319,tapPhone,Using their phone.,do,True,instrumental
+875,321,eraseMark,Telling me to erase the line.,show,True,both
+876,328,brushTableBroom,Showing me how to clean.,show,True,both
+877,323,flipPage,Flipping a page.,do,True,instrumental
+878,324,openLid,Telling me to open a bottle.,show,True,both
+879,325,pullTissue,Either moving their hand or telling me to do something.,show,False,both
+880,326,closeJar,Closing lid,do,True,instrumental
+881,327,twistCube,Either using the rubix cube themself or showing me how to.,do,True,both
+882,315,sprayBottle,Showing me how/telling me to spray the sunscreen,show,True,both
+883,322,chargePhone,Either just plugging in their phone or showing me how to.,do,True,both
+884,314,drinkMug,I think they were trying to show me something but I don't know what.,show,False,none
+885,329,snipScissors,Telling me to/showing me how to use scissors.,show,True,both
+886,312,insertAirpod,Putting their earbud in.,do,True,instrumental
+887,300,flickTrash,Flicking their fingers (potentially telling me to get rid of something in front of me).,show,True,both
+888,301,peelPostIt,Telling me to tear off a paper from the note pad.,show,True,both
+889,302,drawLine,Drawing a line,do,True,instrumental
+890,313,pressRemote,Telling me to use the remote.,show,True,both
+891,304,dispenseSoap,Either just putting on hand sanitizer or showing me how to use it.,do,True,both
+892,305,openCan,Showing me how to do something but I don't know what.,show,False,both
+893,303,igniteLighter,Telling me how to light the lighter.,show,True,both
+894,307,crushBottle,Potentially telling me to crush the bottle.,show,True,both
+895,308,tweezeTweezer,Trying to show me how to squeeze the tweezers.,show,True,both
+896,309,zipPlasticBag,Showing me how to open/close a ziploc bag.,show,True,both
+897,310,swipePhone,Telling me to swipe the phone to do/see something.,show,True,both
+898,311,foldNapkin,I have no idea.,unidentified,False,none
+899,306,foldPaper,Telling me to put my paper on top.,show,True,both
