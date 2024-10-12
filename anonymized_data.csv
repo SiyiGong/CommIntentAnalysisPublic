@@ -1,0 +1,923 @@
+,Unnamed: 0,subjectID,iTrial,video,action,condition,rating,rt,survey,nTrials,Index
+0,74,0,14,zipPlasticBag_far,zipPlasticBag,far,7,7220,The person slides her hand as if telling us to grab and close the zip lock bag. ,29,74
+1,60,0,0,drinkCup_absent,drinkCup,absent,5,10888,Asking for a sip of water.,29,60
+2,61,0,1,peelPostIt_far,peelPostIt,far,3,17822,"Maybe attempting to ask for a writing utensil, but they could have been just moving their hand.",29,61
+3,62,0,2,snipScissors_absent,snipScissors,absent,1,6364,Closing their fingers.,29,62
+4,63,0,3,tweezeTweezer_absent,tweezeTweezer,absent,1,9639,"Smashing their thumb into their index finger as to represent pressing a button, but I don't see how this can mean communicating.",29,63
+5,64,0,4,igniteLighter_far,igniteLighter,far,1,10359,Moving her thumb backwards imitating using the lighter. ,29,64
+6,65,0,5,foldNapkin_far,foldNapkin,far,1,8479,Moving her index fingers backwards as if folding the napkin. ,29,65
+7,66,0,6,flipPage_far,flipPage,far,1,7656,Moving her hand over and pretending to be pinching a page of the book in front of her.,29,66
+8,67,0,7,brushTableBroom_do,brushTableBroom,do,1,19863,"Using a brush to sweep a piece of paper. I don't quite see what is being communicated in this video, or if something is being communicated.",29,67
+9,68,0,8,blowCandle_do,blowCandle,do,5,19639,The person is blowing on the candle to show that the smell from the burning wax is too much.,29,68
+10,69,0,9,pullTissue_absent,pullTissue,absent,6,14655,"The person is lifting her hand as if she is holding a piece of paper, she is imitating raising a colored paper as if voting in a public census.",29,69
+11,70,0,10,openGluestick_absent,openGluestick,absent,1,11031,"The person moved her right hand upright, but I see no message from that.",29,70
+12,71,0,11,eraseMark_do,eraseMark,do,5,20191,The person is showing us that she doesn't want the writing on the piece of paper.,29,71
+13,72,0,12,dispenseSoap_absent,dispenseSoap,absent,5,11256,She is telling us to lower our voices to a normal level by bringing both of her hands to the same height.,29,72
+14,73,0,13,tapPhone_do,tapPhone,do,3,9504,The person is clicking on her phone very forcefully as if she doesn't have much experience.,29,73
+15,87,0,27,flickTrash_far,flickTrash,far,6,8656,The person is flicking her fingers as if hitting the paper ball. She tries to tell us to pass her the ball so we can play a game passing it back and fourth.,29,87
+16,75,0,15,closeJar_far,closeJar,far,7,5087,The person rotates her hand as to motion us (the audience) to open the jar.,29,75
+17,76,0,16,chargePhone_do,chargePhone,do,1,4169,"The person connects the charger to the phone, no message is being sent.",29,76
+18,77,0,17,openSnack_absent,openSnack,absent,7,8510,The person is telling us to tear the edge of a piece of paper by pretending to be pinching something and rotating her hands.,29,77
+19,78,0,18,crushBottle_far,crushBottle,far,6,5041,The person closes her fist as if to tell us to crush the bottle.,29,78
+20,79,0,19,foldPaper_do,foldPaper,do,5,5292,The person is folding a piece of paper.,29,79
+21,80,0,20,insertAirpod_do,insertAirpod,do,6,7552,The person puts on an air pod to cancel out the loud noise outside. ,29,80
+22,81,0,21,pressRemote_far,pressRemote,far,6,4760,The person imitates pressing a button like an earlier video but this time we know it is a remote that she wants us to pass or press on.,29,81
+23,82,0,22,swipePhone_absent,swipePhone,absent,6,6008,The person is imitating scrolling through a phone.,29,82
+24,83,0,23,drinkMug_do,drinkMug,do,6,5976,The person lifts the cup facing the opening towards her as if she is about to take a sip.,29,83
+25,84,0,24,openLid_do,openLid,do,5,7776,The person is opening the bottle because she is about to take a sip even though it is empty.,29,84
+26,88,0,28,sprayBottle_absent,sprayBottle,absent,5,13295,The person is imitating taking a picture with a camera.,29,88
+27,85,0,25,openCan_far,openCan,far,7,7408,The person is telling us to open the can for her by moving her index finger backwards as if opening it herself.,29,85
+28,89,0,29,drawLine_absent,drawLine,absent,6,9975,The person slides her hand across imitating the closing of a zip lock bag by pinching the air.,29,89
+29,86,0,26,twistCube_do,twistCube,do,2,11304,"she is trying to solve a the cube, I don't see any messages being sent to the audience.",29,86
+30,477,1,27,openLid_far,openLid,far,6,4247,pretending to untwist the lid of a water bottle,29,477
+31,476,1,26,openGluestick_do,openGluestick,do,7,4807,uncapping a gluestick,29,476
+32,475,1,25,crushBottle_absent,crushBottle,absent,5,6564,squeezing a stress ball in her hand,29,475
+33,474,1,24,chargePhone_far,chargePhone,far,6,5623,pretending to charge her phone,29,474
+34,473,1,23,blowCandle_far,blowCandle,far,6,8544,pretending to blow out a candle,29,473
+35,472,1,22,insertAirpod_far,insertAirpod,far,6,4232,putting on an Airpod,29,472
+36,471,1,21,swipePhone_do,swipePhone,do,7,3624,scrolling on her phone,29,471
+37,470,1,20,flipPage_absent,flipPage,absent,2,9311,making a rainbow,29,470
+38,469,1,19,brushTableBroom_far,brushTableBroom,far,6,5366,sweeping a piece of paper into the dust bin,29,469
+39,468,1,18,drinkCup_do,drinkCup,do,7,3783,lifting a cup to her lips,29,468
+40,467,1,17,openSnack_do,openSnack,do,7,4264,tearing open a bag of chips/candy/something,29,467
+41,466,1,16,igniteLighter_absent,igniteLighter,absent,3,5639,pressing and holding a button down,29,466
+42,452,1,2,zipPlasticBag_absent,zipPlasticBag,absent,6,4821,zipping a ziploc bag closed,29,452
+43,464,1,14,snipScissors_do,snipScissors,do,7,4374,using scissors,29,464
+44,463,1,13,foldPaper_far,foldPaper,far,6,7079,folding a piece of paper,29,463
+45,462,1,12,drawLine_do,drawLine,do,6,5346,drawing a line,29,462
+46,461,1,11,peelPostIt_absent,peelPostIt,absent,3,11975,crossing something out on a piece of paper,29,461
+47,460,1,10,sprayBottle_do,sprayBottle,do,6,4207,using some sort of spray...Aerosol?,29,460
+48,459,1,9,dispenseSoap_do,dispenseSoap,do,7,5434,using hand sanitizer (pumping the dispenser),29,459
+49,458,1,8,flickTrash_absent,flickTrash,absent,5,9255,flicking something,29,458
+50,457,1,7,pressRemote_absent,pressRemote,absent,3,7060,using a TV remote control,29,457
+51,456,1,6,tweezeTweezer_do,tweezeTweezer,do,6,4071,using tweezers,29,456
+52,455,1,5,drinkMug_far,drinkMug,far,5,6040,lifting cup to take a drink,29,455
+53,454,1,4,twistCube_far,twistCube,far,5,5441,"twisting a rubric cube
+",29,454
+54,453,1,3,openCan_absent,openCan,absent,3,5158,"scrolling a mouse
+",29,453
+55,451,1,1,foldNapkin_absent,foldNapkin,absent,3,7741,"motioning someone forward with two pointer fingers
+",29,451
+56,465,1,15,eraseMark_far,eraseMark,far,6,4898,erasing something,29,465
+57,478,1,28,tapPhone_far,tapPhone,far,6,3687,pretending to tap on her phone,29,478
+58,450,1,0,closeJar_absent,closeJar,absent,6,12791,mimicking unscrewing a jar lid,29,450
+59,479,1,29,pullTissue_do,pullTissue,do,7,4320,taking a tissue out of the tissue box,29,479
+60,268,2,28,openSnack_far,openSnack,far,6,3405,asking for some of my snack,29,268
+61,242,2,2,igniteLighter_do,igniteLighter,do,1,5125,lighting a lighter,29,242
+62,243,2,3,openCan_do,openCan,do,1,4223,opening a can,29,243
+63,244,2,4,foldNapkin_do,foldNapkin,do,1,3567,folding a napkin,29,244
+64,245,2,5,drinkMug_absent,drinkMug,absent,3,13821,pulling something up from the desk,29,245
+65,246,2,6,flickTrash_do,flickTrash,do,5,4749,flicking a small crumpled paper across the table,29,246
+66,247,2,7,tapPhone_absent,tapPhone,absent,1,4341,mimicking the motion of typing on their phone,29,247
+67,248,2,8,peelPostIt_do,peelPostIt,do,1,4212,ripping a post it note off its pack,29,248
+68,249,2,9,zipPlasticBag_do,zipPlasticBag,do,1,4021,opening a plastic bag,29,249
+69,250,2,10,drinkCup_far,drinkCup,far,6,6295,asking to have a drink from my cup,29,250
+70,251,2,11,foldPaper_absent,foldPaper,absent,5,3985,giving me something,29,251
+71,252,2,12,blowCandle_absent,blowCandle,absent,5,5994,whistling,29,252
+72,253,2,13,snipScissors_far,snipScissors,far,6,5575,asking for my scissors,29,253
+73,269,2,29,chargePhone_absent,chargePhone,absent,2,5084,playing a violin,29,269
+74,254,2,14,dispenseSoap_far,dispenseSoap,far,6,5328,asking for my hand sanitizer,29,254
+75,256,2,16,openGluestick_far,openGluestick,far,5,4602,asking to use my glue stick,29,256
+76,257,2,17,pressRemote_do,pressRemote,do,2,4796,using a tv remote,29,257
+77,258,2,18,twistCube_absent,twistCube,absent,2,6230,turning something over,29,258
+78,259,2,19,pullTissue_far,pullTissue,far,5,3422,asking to use a tissue,29,259
+79,260,2,20,brushTableBroom_absent,brushTableBroom,absent,6,4702,conducting musical instruments,29,260
+80,261,2,21,tweezeTweezer_far,tweezeTweezer,far,5,2854,asking to use my tweezers,29,261
+81,262,2,22,flipPage_do,flipPage,do,1,4164,flipping the pages of a book,29,262
+82,263,2,23,sprayBottle_far,sprayBottle,far,5,5102,asking to use my spray,29,263
+83,264,2,24,crushBottle_do,crushBottle,do,5,4317,smashing a plastic water bottle,29,264
+84,265,2,25,drawLine_far,drawLine,far,2,7542,writing in a line,29,265
+85,266,2,26,eraseMark_absent,eraseMark,absent,5,8697,showing the size of an object,29,266
+86,267,2,27,closeJar_do,closeJar,do,1,5331,closing a jar,29,267
+87,241,2,1,swipePhone_far,swipePhone,far,1,6806,mimicking the motion of swiping on their phone,29,241
+88,255,2,15,insertAirpod_absent,insertAirpod,absent,3,4167,putting in an earpiece or headphone,29,255
+89,240,2,0,openLid_absent,openLid,absent,3,12377,"mimicking the motion of stirring tea/coffee
+",29,240
+90,569,3,29,drawLine_far,drawLine,far,7,8635,They pretended to draw a line,29,569
+91,541,3,1,brushTableBroom_far,brushTableBroom,far,3,9512,They were moving their hand,29,541
+92,542,3,2,igniteLighter_do,igniteLighter,do,2,5831,They were lighting a lighter,29,542
+93,543,3,3,snipScissors_far,snipScissors,far,3,14064,"They were making some hand gesture
+",29,543
+94,544,3,4,crushBottle_absent,crushBottle,absent,5,14321,they were clenching their fist,29,544
+95,545,3,5,pressRemote_far,pressRemote,far,5,6230,They were pretending to press a button on a remote ,29,545
+96,546,3,6,closeJar_far,closeJar,far,5,5291,they were pretending to twist the lid off a jar,29,546
+97,547,3,7,foldNapkin_far,foldNapkin,far,5,5089,they were pretending to fold a piece of tissue,29,547
+98,548,3,8,insertAirpod_do,insertAirpod,do,1,4637,They put an AirPod into their ear,29,548
+99,549,3,9,eraseMark_do,eraseMark,do,1,4015,They were erasing a line off a paper,29,549
+100,550,3,10,flickTrash_absent,flickTrash,absent,6,4163,They flicked their fingers,29,550
+101,551,3,11,tweezeTweezer_far,tweezeTweezer,far,5,4950,They pretended to press on tweezers ,29,551
+102,552,3,12,openGluestick_far,openGluestick,far,3,12232,They pretended to take a lid off the feltip,29,552
+103,553,3,13,blowCandle_do,blowCandle,do,1,4438,They blew out a candle,29,553
+104,554,3,14,drinkMug_absent,drinkMug,absent,3,9825,They lifted their hand,29,554
+105,555,3,15,twistCube_absent,twistCube,absent,4,13975,They made some hand gesture,29,555
+106,556,3,16,foldPaper_far,foldPaper,far,5,6150,They pretended to turn over a sheet of paper,29,556
+107,557,3,17,openSnack_do,openSnack,do,1,3426,They opened a bag of crisps,29,557
+108,558,3,18,dispenseSoap_far,dispenseSoap,far,5,3318,They pretend to press on the hand sanitizer top,29,558
+109,559,3,19,openCan_do,openCan,do,1,7808,They opened a can ,29,559
+110,560,3,20,tapPhone_absent,tapPhone,absent,6,6161,They were counting ,29,560
+111,561,3,21,pullTissue_absent,pullTissue,absent,2,6519,They lifted their hand,29,561
+112,562,3,22,chargePhone_do,chargePhone,do,1,2752,They plugged their phone in,29,562
+113,563,3,23,peelPostIt_do,peelPostIt,do,1,3009,They ripped off the top post-it note,29,563
+114,564,3,24,drinkCup_absent,drinkCup,absent,7,3950,They pretended to lift a glass,29,564
+115,565,3,25,zipPlasticBag_absent,zipPlasticBag,absent,7,3279,They pretended to open/close a Ziplock bag,29,565
+116,566,3,26,sprayBottle_absent,sprayBottle,absent,6,3708,They pretended to spray perfume,29,566
+117,567,3,27,openLid_do,openLid,do,1,3528,They opened a bottle of water,29,567
+118,540,3,0,swipePhone_absent,swipePhone,absent,5,4112,They were pointing or making some hand gesture.,29,540
+119,568,3,28,flipPage_do,flipPage,do,1,3582,They turned a page,29,568
+120,120,4,0,brushTableBroom_absent,brushTableBroom,absent,1,13256,Maybe demonstrating how to play the violin,29,120
+121,148,4,28,drinkMug_do,drinkMug,do,3,6411,Demonstrating lack of interest in drinking by looking at the bottom of her mug,29,148
+122,146,4,26,dispenseSoap_absent,dispenseSoap,absent,1,4969,Copying a scene that Ross does in Friends to tell his roommates to be quiet,29,146
+123,145,4,25,openGluestick_absent,openGluestick,absent,1,6862,Starting up a mini lawn mower or a tiny chainsaw,29,145
+124,144,4,24,igniteLighter_far,igniteLighter,far,7,3758,Click on the lighter,29,144
+125,143,4,23,peelPostIt_far,peelPostIt,far,7,3918,Tear off a sticky note for me please,29,143
+126,142,4,22,openSnack_far,openSnack,far,7,4982,Asking someone to tear open a bag of snacks,29,142
+127,141,4,21,twistCube_do,twistCube,do,7,5852,Solving a rubik's cube,29,141
+128,140,4,20,pressRemote_absent,pressRemote,absent,4,8620,Pressing a TV remote but unclear,29,140
+129,139,4,19,foldPaper_absent,foldPaper,absent,1,12328,Placing fabric on a table to cut,29,139
+130,138,4,18,openLid_far,openLid,far,6,5222,Open the bottle by twisting open the cap so I can drink,29,138
+131,137,4,17,snipScissors_absent,snipScissors,absent,7,5675,Telling someone to be quiet,29,137
+132,136,4,16,eraseMark_far,eraseMark,far,3,11519,"Based on picture context, demonstrating how to erase on paper",29,136
+133,135,4,15,tweezeTweezer_absent,tweezeTweezer,absent,5,4796,Actively clicking something like a clicker to train a dog,29,135
+134,149,4,29,chargePhone_far,chargePhone,far,7,3303,Charging a phone,29,149
+135,134,4,14,closeJar_absent,closeJar,absent,5,4975,Imagining twisting open a jar of jam maybe,29,134
+136,132,4,12,crushBottle_do,crushBottle,do,5,5455,"Fisting up a plastic, empty waterbottle
+",29,132
+137,131,4,11,insertAirpod_far,insertAirpod,far,5,8302,Demonstrating how to put an airpod in one's ear without the airpod,29,131
+138,130,4,10,swipePhone_do,swipePhone,do,7,15534,"Swiping on a phone, like social media to communicate with friends",29,130
+139,129,4,9,sprayBottle_do,sprayBottle,do,3,7415,Wasting liquid spray by spraying it to a non-specified spot,29,129
+140,128,4,8,pullTissue_do,pullTissue,do,5,9215,Pulling out tissue paper,29,128
+141,127,4,7,blowCandle_far,blowCandle,far,3,8510,Trying to blow out a candle with minimal effort,29,127
+142,126,4,6,drawLine_absent,drawLine,absent,2,5616,Fake drawing a straight line,29,126
+143,125,4,5,tapPhone_do,tapPhone,do,4,6910,Tapping a phone like a 90 year old (in slow motion),29,125
+144,124,4,4,drinkCup_do,drinkCup,do,3,5766,Fake drinking,29,124
+145,123,4,3,openCan_far,openCan,far,3,7453,Attempting to open a can of juice with telekenesis,29,123
+146,122,4,2,zipPlasticBag_do,zipPlasticBag,do,6,10237,Unzipping a semi-clear plastic bag,29,122
+147,121,4,1,flipPage_far,flipPage,far,5,8037,Turning a page of the Bible,29,121
+148,133,4,13,foldNapkin_absent,foldNapkin,absent,1,8190,Moving the forefinger back while the hands were loosely fisted,29,133
+149,147,4,27,flickTrash_do,flickTrash,do,3,5438,Getting food/scraps off her area by flicking it to someone/somewhere else,29,147
+150,597,5,27,eraseMark_absent,eraseMark,absent,1,5592,i don't know,29,597
+151,571,5,1,crushBottle_far,crushBottle,far,3,28124,making a fist with their hand,29,571
+152,596,5,26,pullTissue_far,pullTissue,far,7,5204,getting a tissue from the box,29,596
+153,595,5,25,openGluestick_do,openGluestick,do,7,4463,taking the cap off of the chapstick,29,595
+154,594,5,24,twistCube_far,twistCube,far,7,5544,imitating like they are playing with the rubics cube ,29,594
+155,593,5,23,drinkMug_far,drinkMug,far,6,16065,imitating like they are holding the mug and drinking from it ,29,593
+156,592,5,22,foldPaper_do,foldPaper,do,7,5525,folding a paper,29,592
+157,591,5,21,tapPhone_far,tapPhone,far,7,7409,tapping on their phone,29,591
+158,590,5,20,closeJar_do,closeJar,do,7,4664,opening a container,29,590
+159,589,5,19,peelPostIt_absent,peelPostIt,absent,5,6560,opening a zipper,29,589
+160,588,5,18,swipePhone_far,swipePhone,far,7,7552,swiping on their phone,29,588
+161,587,5,17,pressRemote_do,pressRemote,do,7,4977,using the remote control,29,587
+162,586,5,16,flipPage_absent,flipPage,absent,2,8969,showing one point and then another,29,586
+163,585,5,15,zipPlasticBag_far,zipPlasticBag,far,6,6904,opening the zipper of the container,29,585
+164,599,5,29,sprayBottle_far,sprayBottle,far,7,11008,using the UV spray,29,599
+165,583,5,13,drawLine_do,drawLine,do,7,3421,drawing a line,29,583
+166,582,5,12,openLid_absent,openLid,absent,6,5447,opening a bottle,29,582
+167,581,5,11,igniteLighter_absent,igniteLighter,absent,6,4448,using a lighter,29,581
+168,580,5,10,drinkCup_far,drinkCup,far,6,12245,they drank something from the cup,29,580
+169,579,5,9,chargePhone_absent,chargePhone,absent,6,4920,charging their phone ,29,579
+170,578,5,8,brushTableBroom_do,brushTableBroom,do,6,29270,cleaning up the table ,29,578
+171,577,5,7,openCan_absent,openCan,absent,5,15840,immitating the computer mouse ,29,577
+172,576,5,6,dispenseSoap_do,dispenseSoap,do,3,8796,they are just putting hand sanitizer on their hand ,29,576
+173,575,5,5,openSnack_absent,openSnack,absent,6,7296,the person is making a sign of ripping a paper.maybe trying to communicate to me that they ripped a paper,29,575
+174,574,5,4,tweezeTweezer_do,tweezeTweezer,do,3,14390,they are not specifically talking to me,29,574
+175,573,5,3,blowCandle_absent,blowCandle,absent,6,9143,talking to me ,29,573
+176,572,5,2,flickTrash_far,flickTrash,far,3,22926,flicking the popcorn,29,572
+177,598,5,28,foldNapkin_do,foldNapkin,do,7,3785,folding a napkin,29,598
+178,584,5,14,insertAirpod_absent,insertAirpod,absent,4,6712,putting on headphones,29,584
+179,570,5,0,snipScissors_do,snipScissors,do,1,9353,using the scissors,29,570
+180,601,6,1,drinkMug_do,drinkMug,do,5,4063,The person lifted a mug up as if they were about to drink out of it. ,29,601
+181,602,6,2,peelPostIt_do,peelPostIt,do,5,5184,the person peeled a sticky note from the  notepad.,29,602
+182,629,6,29,pressRemote_do,pressRemote,do,6,5479,the person pressed buttons on a TV remote,29,629
+183,628,6,28,flickTrash_absent,flickTrash,absent,4,3535,the person pretended to flick something off the table. ,29,628
+184,627,6,27,drinkCup_absent,drinkCup,absent,4,3822,the person lifted their cupped hand. ,29,627
+185,626,6,26,openSnack_absent,openSnack,absent,4,4099,The person pretended to tear something. ,29,626
+186,625,6,25,crushBottle_absent,crushBottle,absent,4,6518,The person closed their hand into a fist,29,625
+187,624,6,24,twistCube_far,twistCube,far,6,3452,The person twisted a rubix cube,29,624
+188,623,6,23,zipPlasticBag_do,zipPlasticBag,do,6,3175,The person zipped a bag closed.,29,623
+189,622,6,22,insertAirpod_do,insertAirpod,do,7,5055,The person picked up an airpod.,29,622
+190,621,6,21,openGluestick_do,openGluestick,do,6,7286,The person opened chapstick. ,29,621
+191,620,6,20,openCan_far,openCan,far,5,3247,The person opened a can. ,29,620
+192,619,6,19,closeJar_far,closeJar,far,5,3399,The person twisted a lid off of a jar. ,29,619
+193,618,6,18,tweezeTweezer_absent,tweezeTweezer,absent,3,4343,The person pinched their fingers together.,29,618
+194,617,6,17,brushTableBroom_far,brushTableBroom,far,5,3668,The person used a broom to pick up trash.,29,617
+195,600,6,0,foldNapkin_far,foldNapkin,far,2,9710,She was touching her thumb to her ring finger. ,29,600
+196,615,6,15,igniteLighter_do,igniteLighter,do,7,4030,The person lit a lighter. ,29,615
+197,616,6,16,pullTissue_far,pullTissue,far,5,4261,The person grabbed a tissue.,29,616
+198,603,6,3,openLid_absent,openLid,absent,5,7374,The person pretended to twist a cap off of something. ,29,603
+199,604,6,4,sprayBottle_do,sprayBottle,do,6,5240,The person sprayed something out of a can. ,29,604
+200,605,6,5,snipScissors_far,snipScissors,far,5,8410,"The person pretended to use scissors, though the scissors were laying flat on the table. ",29,605
+201,606,6,6,tapPhone_absent,tapPhone,absent,4,4389,The person looked like they were pretending to swipe on a phone. ,29,606
+202,608,6,8,drawLine_do,drawLine,do,7,4398,The person drew a line with a pencil onto a notebook. ,29,608
+203,607,6,7,dispenseSoap_do,dispenseSoap,do,6,4132,The person pumped anti-bacterial soap onto their hands. ,29,607
+204,610,6,10,blowCandle_absent,blowCandle,absent,2,4581,The person looked as if they were whistling. ,29,610
+205,611,6,11,foldPaper_far,foldPaper,far,3,4287,The person made the motion of laying a piece of paper on a table. ,29,611
+206,612,6,12,flipPage_absent,flipPage,absent,1,4265,The person pointed from their right to their left.,29,612
+207,613,6,13,chargePhone_absent,chargePhone,absent,1,4238,The person moved an imaginary object into their left hand?,29,613
+208,614,6,14,swipePhone_far,swipePhone,far,6,3361,A person appeared to swipe on their phone.,29,614
+209,609,6,9,eraseMark_far,eraseMark,far,3,11549,"The person pretended to erase something, but the eraser and paper were laying on the table. ",29,609
+210,649,7,19,sprayBottle_far,sprayBottle,far,7,3158,spray the can,29,649
+211,647,7,17,chargePhone_do,chargePhone,do,7,2781,plug in a phone ,29,647
+212,648,7,18,drinkMug_far,drinkMug,far,5,6148,pick up the mug and drink,29,648
+213,650,7,20,openLid_do,openLid,do,7,2479,twist open a bottle ,29,650
+214,656,7,26,twistCube_absent,twistCube,absent,5,5133,twist open a container,29,656
+215,652,7,22,tapPhone_do,tapPhone,do,7,3846,press on the phone screen,29,652
+216,653,7,23,openGluestick_far,openGluestick,far,6,6823,pull open the glue cap,29,653
+217,654,7,24,insertAirpod_far,insertAirpod,far,7,4150,put on earbuds,29,654
+218,655,7,25,pullTissue_absent,pullTissue,absent,1,4639,pick up something,29,655
+219,645,7,15,swipePhone_absent,swipePhone,absent,6,4280,scroll on a screen,29,645
+220,657,7,27,pressRemote_far,pressRemote,far,7,3456,turn on the tv with a remote,29,657
+221,651,7,21,foldPaper_absent,foldPaper,absent,6,4941,folding something,29,651
+222,644,7,14,openSnack_do,openSnack,do,7,3031,rip open a chip bag,29,644
+223,638,7,8,tweezeTweezer_do,tweezeTweezer,do,7,4904,pinch the twizzer,29,638
+224,642,7,12,eraseMark_absent,eraseMark,absent,1,4856,move an object,29,642
+225,641,7,11,flipPage_do,flipPage,do,7,3567,turn a page,29,641
+226,640,7,10,flickTrash_do,flickTrash,do,7,3814,flick a piece of paper rolled in a ball,29,640
+227,639,7,9,brushTableBroom_absent,brushTableBroom,absent,1,9765,turn a page,29,639
+228,637,7,7,openCan_absent,openCan,absent,3,5215,open a soda can,29,637
+229,636,7,6,snipScissors_absent,snipScissors,absent,6,4790,to be quite,29,636
+230,635,7,5,drawLine_far,drawLine,far,2,9184,take the pencil,29,635
+231,634,7,4,peelPostIt_far,peelPostIt,far,6,8100,grab a stickynote,29,634
+232,633,7,3,foldNapkin_absent,foldNapkin,absent,2,11068,hand signal to bring in something or turn in something,29,633
+233,632,7,2,drinkCup_do,drinkCup,do,7,4211,drinking from a cup,29,632
+234,631,7,1,blowCandle_do,blowCandle,do,4,10077,smelling a scent,29,631
+235,658,7,28,crushBottle_do,crushBottle,do,7,2712,squeeze an empty bottle for recycling,29,658
+236,630,7,0,dispenseSoap_far,dispenseSoap,far,7,9863,pressing down on handsanitizer bottle,29,630
+237,643,7,13,igniteLighter_far,igniteLighter,far,7,3988,light up the lighter,29,643
+238,659,7,29,closeJar_absent,closeJar,absent,7,3807,twist open or close a container lid,29,659
+239,646,7,16,zipPlasticBag_far,zipPlasticBag,far,7,3132,zip up a bag,29,646
+240,683,8,23,crushBottle_far,crushBottle,far,5,6824,"Her reaching out her hand to the shaking and empty bottle but pulling her hand back at the end seems like i just finished the water and put the bottle down but she wanted me to hand her the bottle so she could drink some yet realized I finished it so she thought ""nevermind."" but this may be a signal for me to be a nice person and get her more water.",29,683
+241,687,8,27,blowCandle_far,blowCandle,far,5,5840,"since she's weakly and farly blowing out the candle, I think she's trying to signal to me to do it for her due to her low effort. ",29,687
+242,686,8,26,snipScissors_do,snipScissors,do,4,7711,"she seems to want to cut something and the way the scissors are fully in the air/in my view, makes me feel like she wants me to do something about it. ",29,686
+243,685,8,25,foldNapkin_do,foldNapkin,do,1,4639,"she seems to be folding her own tissue to use it, but since her arms are sticking out a little, it makes me wonder if shes putting it out for me to use?",29,685
+244,684,8,24,eraseMark_do,eraseMark,do,2,6887,"she seems to be erasing something herself which isn't involving me but since i see her struggling to actually erase the mark, I would probably try to help her actually erase it. ",29,684
+245,682,8,22,openGluestick_absent,openGluestick,absent,5,7776,she's obviously acting unnatural to get my attention and say something but the motion is so awkward and ominous. it looks like she's ripping paper?,29,682
+246,681,8,21,closeJar_do,closeJar,do,1,4967,"She is opening the jar for herself so she doesn't need to talk to me. but, if the jar wouldn't open or she was struggling, I would think she is subliminally communicating with me so i would help her open the jar.",29,681
+247,680,8,20,insertAirpod_absent,insertAirpod,absent,4,9956,"she seems to either be scratching her head or thinking which doesn't convey any message to me. but, she might be signaling to me that I need to think or use my head. ",29,680
+248,679,8,19,brushTableBroom_do,brushTableBroom,do,1,5240,she's cleaning up by herself and there's no other mess so I don't think she's trying to hint that I'm being messy or need to clean. ,29,679
+249,678,8,18,twistCube_do,twistCube,do,1,4631,you play rubix cubes by yourself so it seems like she's just minding her business and starting her game. ,29,678
+250,677,8,17,chargePhone_far,chargePhone,far,7,5167,she seems to want me to plug the charger in the phone for her. ,29,677
+251,676,8,16,drinkMug_absent,drinkMug,absent,5,7527,"the fist moving seems like anger of some sort but since the movement was slight and gentle, i don't feel like she's going to hit me. ",29,676
+252,675,8,15,drawLine_absent,drawLine,absent,4,7708,she seems to want me to give her a pencil to write with because her hand is positioned oddly but it isn't obvious enough to understand what she actually means. ,29,675
+253,674,8,14,pullTissue_do,pullTissue,do,1,7535,"Since she's doing the action herself on something instead of mid air, she seems to want to just blow her own nose or use the tissue herself. if she pulled it out towards me i would think she wanted me to wipe my face or something. ",29,674
+254,673,8,13,flipPage_far,flipPage,far,5,3486,She is doing the same thing where she wants the book to end up in her hands so she can continue flipping the pages but she doesn't obviously or directly signal to me that she wants me to pass her the book so it's confusing. ,29,673
+255,672,8,12,drinkCup_far,drinkCup,far,5,4567,"Again, she seems like she wants someone to bring the cup to her hand so she can drink it but she's doing it in an ominous way that doesn't feel directed to me. ",29,672
+256,671,8,11,tapPhone_far,tapPhone,far,6,9695,"Doing this is unnatural so it seems like she wants the phone to end up in her hand so she can swipe on it, but I'm not sure if this is directed at me because if she truly wanted me to hand it to her she could point at the phone and back to herself or something. ",29,671
+257,670,8,10,openCan_do,openCan,do,1,4551,She seems to just be opening her can of juice so she can drink it. She doesn't need anything from me. ,29,670
+258,669,8,9,openSnack_far,openSnack,far,7,6318,She seems like she's wanting me to rip open the chip bag for her. ,29,669
+259,668,8,8,tweezeTweezer_far,tweezeTweezer,far,2,8303,"She seems to move her finger to want to pick up the tweezers but her hand isn't getting close to the tweezers which is making me feel like she wants me to do something for her. But, the motion was slight and unnatural so I can't truly understand her intentions. ",29,668
+260,667,8,7,swipePhone_do,swipePhone,do,1,5599,"She seems to be on her phone swiping, minding her business. Since she is not looking at me or showing me her phone screen, I don't feel communicated to.",29,667
+261,666,8,6,pressRemote_absent,pressRemote,absent,7,7007,She wants me to pass the remote or turn the tv off or change the volume? But obviously she is doing a motion for me to see and do something for her. ,29,666
+262,665,8,5,dispenseSoap_absent,dispenseSoap,absent,7,8679,"It looks like she's pumping a lotion bottle or something, but I think she definitely is communicating to me even if I don't understand her message. She would not move like that just to communicate to herself. ",29,665
+263,664,8,4,peelPostIt_absent,peelPostIt,absent,4,7632,"It was a slight hand movement so I don't know what she's trying to communicate but because her other hand is also in an unnatural setting, I feel like she is trying to get my attention somehow. ",29,664
+264,663,8,3,zipPlasticBag_absent,zipPlasticBag,absent,5,12854,She seems to be communicating me by doing a hand single obviously but I'm not sure what she wants. Possibly for me to close a ziploc bag?,29,663
+265,662,8,2,foldPaper_do,foldPaper,do,1,7432,It seemed like she was just folding her paper and minding her business. ,29,662
+266,661,8,1,sprayBottle_absent,sprayBottle,absent,3,8807,Moving their pointer finger slightly. possibly to get my attention about something not urgent. ,29,661
+267,660,8,0,igniteLighter_absent,igniteLighter,absent,2,11351,Putting their thumb down while their hand was up in a fist. ,29,660
+268,688,8,28,flickTrash_far,flickTrash,far,6,7056,"Since her flick was so light and her hand's distance from the popcorn was so far, I think she wants me to flick the popcorn for her. ",29,688
+269,689,8,29,openLid_far,openLid,far,7,4087,She wants me to open the water bottle cap for her because she's doing the motion in the air while the water is close to me. either that or she wants me to pass her the bottle so she can open it herself. ,29,689
+270,706,9,16,closeJar_do,closeJar,do,7,7164,Closing a jar,29,706
+271,691,9,1,drinkMug_absent,drinkMug,absent,1,15323,Moved her hand back,29,691
+272,719,9,29,openCan_far,openCan,far,7,3703,Opening a can,29,719
+273,718,9,28,snipScissors_absent,snipScissors,absent,5,7319,Squeezing something,29,718
+274,717,9,27,flickTrash_do,flickTrash,do,7,3345,Flicking a ball of paper,29,717
+275,716,9,26,openSnack_far,openSnack,far,7,3554,Tearing open a bag,29,716
+276,715,9,25,chargePhone_do,chargePhone,do,7,4047,Charging a phone,29,715
+277,714,9,24,igniteLighter_absent,igniteLighter,absent,5,7644,Pressing down on something,29,714
+278,713,9,23,crushBottle_absent,crushBottle,absent,6,4400,Squeezing something,29,713
+279,712,9,22,twistCube_absent,twistCube,absent,7,6331,Opening/closing a jar,29,712
+280,690,9,0,eraseMark_do,eraseMark,do,6,14863,Trying to erase a pencil mark,29,690
+281,710,9,20,openLid_do,openLid,do,7,3604,Opening a bottle,29,710
+282,709,9,19,drawLine_do,drawLine,do,7,3424,Drawing a line,29,709
+283,708,9,18,sprayBottle_far,sprayBottle,far,7,4191,Pressing down on the spray,29,708
+284,707,9,17,pullTissue_far,pullTissue,far,7,5031,Getting a tissue,29,707
+285,705,9,15,openGluestick_far,openGluestick,far,7,5654,Opening a glue stick,29,705
+286,711,9,21,foldPaper_do,foldPaper,do,7,3511,Folding a sheet of paper,29,711
+287,692,9,2,blowCandle_far,blowCandle,far,7,4862,Blowing out a candle,29,692
+288,704,9,14,tapPhone_absent,tapPhone,absent,6,7696,Pretending to hold a phone and tap on the screen,29,704
+289,693,9,3,dispenseSoap_absent,dispenseSoap,absent,5,8846,Trying to measure something,29,693
+290,694,9,4,pressRemote_far,pressRemote,far,6,5431,Pretending to use the TV remote,29,694
+291,695,9,5,drinkCup_do,drinkCup,do,7,4559,Drinking out of the cup,29,695
+292,697,9,7,tweezeTweezer_absent,tweezeTweezer,absent,3,7015,Pinching something,29,697
+293,696,9,6,peelPostIt_far,peelPostIt,far,6,6838,Tearing off a sticky note,29,696
+294,699,9,9,insertAirpod_absent,insertAirpod,absent,3,8150,Pointing to their head,29,699
+295,700,9,10,foldNapkin_far,foldNapkin,far,5,6334,Demonstrating folding a napkin,29,700
+296,701,9,11,brushTableBroom_absent,brushTableBroom,absent,4,8613,Turning the page of a book,29,701
+297,702,9,12,swipePhone_do,swipePhone,do,7,4280,Swiping on the phone,29,702
+298,703,9,13,flipPage_far,flipPage,far,7,4669,Turning a page from the book,29,703
+299,698,9,8,zipPlasticBag_do,zipPlasticBag,do,7,6543,Opening/closing a bag,29,698
+300,738,10,18,openCan_absent,openCan,absent,6,7800,She wants to scroll down using the mouse wheel.,29,738
+301,742,10,22,foldNapkin_absent,foldNapkin,absent,5,11215,Using a gaming device.,29,742
+302,739,10,19,tapPhone_do,tapPhone,do,1,4784,Using her phone.,29,739
+303,740,10,20,peelPostIt_absent,peelPostIt,absent,5,9799,Wants someone to flip a something.,29,740
+304,741,10,21,crushBottle_do,crushBottle,do,3,19088,Squeezing the water bottle.,29,741
+305,743,10,23,sprayBottle_absent,sprayBottle,absent,5,6727,Wants to take a picture.,29,743
+306,721,10,1,tweezeTweezer_do,tweezeTweezer,do,3,7224,She used a hair pinch in the air.,29,721
+307,745,10,25,pullTissue_absent,pullTissue,absent,5,7661,I do not know.,29,745
+308,746,10,26,snipScissors_do,snipScissors,do,5,7935,Wants to cut something.,29,746
+309,747,10,27,eraseMark_far,eraseMark,far,7,9413,The person wants to erase that drawing.,29,747
+310,748,10,28,drinkCup_far,drinkCup,far,6,8070,She wants a sip of water.,29,748
+311,749,10,29,igniteLighter_do,igniteLighter,do,6,6884,She wants to burn something.,29,749
+312,737,10,17,openGluestick_absent,openGluestick,absent,5,10248,I do not know.,29,737
+313,744,10,24,blowCandle_absent,blowCandle,absent,5,9791,Whistling.,29,744
+314,736,10,16,flickTrash_far,flickTrash,far,6,6392,The person wants to flick that piece of trash.,29,736
+315,720,10,0,drawLine_far,drawLine,far,6,21063,The person moved her hand across the table holding both thumb and index finger.,29,720
+316,734,10,14,twistCube_do,twistCube,do,1,5933,Solving the cube.,29,734
+317,722,10,2,foldPaper_far,foldPaper,far,5,11160,acting out putting down a sheet a paper.,29,722
+318,723,10,3,brushTableBroom_do,brushTableBroom,do,2,11799,cleaning up a crumbled up piece of paper with a small broom.,29,723
+319,724,10,4,pressRemote_absent,pressRemote,absent,5,8120,acting out using a remote control.,29,724
+320,725,10,5,closeJar_far,closeJar,far,5,9562,The person needs help opening that jar.,29,725
+321,726,10,6,openLid_far,openLid,far,5,5712,The person wants to close that water bottle.,29,726
+322,727,10,7,drinkMug_do,drinkMug,do,3,6112,The person wants to drink what is inside that mug.,29,727
+323,735,10,15,insertAirpod_do,insertAirpod,do,1,3816,Putting on earphones.,29,735
+324,729,10,9,openSnack_absent,openSnack,absent,5,8223,The person wants to unwrap something. Maybe a candy wrapper.,29,729
+325,730,10,10,swipePhone_far,swipePhone,far,5,16383,The person wants to use the phone.,29,730
+326,731,10,11,chargePhone_far,chargePhone,far,7,5095,The person wants to charge the phone.,29,731
+327,732,10,12,zipPlasticBag_far,zipPlasticBag,far,7,10848,The person wants to close the packet.,29,732
+328,733,10,13,flipPage_absent,flipPage,absent,6,6736,The person is communicating to move somewhere.,29,733
+329,728,10,8,dispenseSoap_do,dispenseSoap,do,1,7307,Using hand sanitizer.,29,728
+330,763,11,13,swipePhone_absent,swipePhone,absent,3,5557,swiping on a phone,29,763
+331,762,11,12,peelPostIt_do,peelPostIt,do,3,3310,ripping of a sticky note from a pad,29,762
+332,761,11,11,openSnack_do,openSnack,do,3,5990,opening a bag of chips,29,761
+333,760,11,10,closeJar_absent,closeJar,absent,3,12133,closing a lid,29,760
+334,759,11,9,foldNapkin_do,foldNapkin,do,3,4398,folding a paper towl,29,759
+335,758,11,8,insertAirpod_far,insertAirpod,far,3,4227,putting in an airpod,29,758
+336,755,11,5,openGluestick_do,openGluestick,do,3,5895,opening a glue stick,29,755
+337,756,11,6,flipPage_do,flipPage,do,3,4284,turning a page in a book,29,756
+338,754,11,4,twistCube_far,twistCube,far,3,5591,solving a rubix cube,29,754
+339,753,11,3,drawLine_absent,drawLine,absent,2,6382,drawing a line,29,753
+340,751,11,1,chargePhone_absent,chargePhone,absent,2,9402,plugging in a phone,29,751
+341,764,11,14,tweezeTweezer_far,tweezeTweezer,far,3,6487,tweezing,29,764
+342,757,11,7,drinkMug_far,drinkMug,far,3,6418,lifting up a mug,29,757
+343,765,11,15,openCan_do,openCan,do,3,4272,opening a can,29,765
+344,752,11,2,zipPlasticBag_absent,zipPlasticBag,absent,2,10238,zipping up a bag,29,752
+345,766,11,16,foldPaper_absent,foldPaper,absent,2,7076,folding something,29,766
+346,750,11,0,tapPhone_far,tapPhone,far,2,15712,acting out pressing a button on a phone,29,750
+347,778,11,28,igniteLighter_far,igniteLighter,far,3,4181,turning on a lighter,29,778
+348,777,11,27,eraseMark_absent,eraseMark,absent,2,7527,zipping something open or closed,29,777
+349,776,11,26,crushBottle_far,crushBottle,far,2,10062,grabbing a water bottle,29,776
+350,775,11,25,pressRemote_do,pressRemote,do,4,3475,changing the TV station,29,775
+351,774,11,24,snipScissors_far,snipScissors,far,3,7054,cutting something,29,774
+352,779,11,29,openLid_absent,openLid,absent,2,5279,unscrewing a lid ,29,779
+353,772,11,22,flickTrash_absent,flickTrash,absent,2,5086,flicking something,29,772
+354,771,11,21,brushTableBroom_far,brushTableBroom,far,3,6509,sweeping up some dirt with a dust pan,29,771
+355,770,11,20,blowCandle_do,blowCandle,do,4,4175,"blowing out a candle
+",29,770
+356,769,11,19,drinkCup_absent,drinkCup,absent,3,6040,drinking something,29,769
+357,768,11,18,sprayBottle_do,sprayBottle,do,4,11450,spraying sunscreen,29,768
+358,773,11,23,pullTissue_do,pullTissue,do,4,7471,grabbing a tissue,29,773
+359,767,11,17,dispenseSoap_far,dispenseSoap,far,4,10381,pumping a squirt of hand sanitizer,29,767
+360,437,15,17,blowCandle_far,blowCandle,far,2,8214,seemed to be trying to blow out the candle,29,437
+361,438,15,18,eraseMark_far,eraseMark,far,4,6564,it kind of looked like they made the same gesture with their hand on the desk as the pencil park on the paper,29,438
+362,439,15,19,pressRemote_absent,pressRemote,absent,5,6022,looked like miming remote clicking,29,439
+363,440,15,20,igniteLighter_do,igniteLighter,do,3,6421,flicked a lighter on,29,440
+364,441,15,21,snipScissors_far,snipScissors,far,5,7572,pinched their hand together,29,441
+365,445,15,25,openLid_do,openLid,do,2,4573,screwing cap off of water bottle,29,445
+366,444,15,24,flickTrash_far,flickTrash,far,5,13369,pinched fingers together. could be describing size,29,444
+367,446,15,26,chargePhone_do,chargePhone,do,2,4870,plugging charger into phone,29,446
+368,447,15,27,zipPlasticBag_absent,zipPlasticBag,absent,5,7383,"i think it's the same ""violin"" gesture as earlier but in reverse",29,447
+369,448,15,28,foldPaper_absent,foldPaper,absent,6,4182,looked as if putting something on the table,29,448
+370,436,15,16,drinkMug_do,drinkMug,do,2,15437,bringing the mug up,29,436
+371,449,15,29,swipePhone_do,swipePhone,do,2,4511,swiping on phone,29,449
+372,443,15,23,twistCube_do,twistCube,do,2,5087,turned a rubiks cube,29,443
+373,435,15,15,drinkCup_far,drinkCup,far,7,3317,looked like miming drinking a cup of water,29,435
+374,442,15,22,foldNapkin_absent,foldNapkin,absent,7,7484,made a gesture with both hands bringing fingers inwards,29,442
+375,433,15,13,closeJar_absent,closeJar,absent,7,3639,looked like miming screwing a lid on something,29,433
+376,434,15,14,openSnack_far,openSnack,far,7,3672,looked like miming ripping open a bag/opening something,29,434
+377,421,15,1,tapPhone_do,tapPhone,do,3,6854,tapping something on their phone,29,421
+378,422,15,2,openCan_absent,openCan,absent,6,13375,bending their index finger towards the palm of their hand,29,422
+379,423,15,3,flipPage_do,flipPage,do,2,4503,flipping a page in the book,29,423
+380,424,15,4,brushTableBroom_absent,brushTableBroom,absent,5,6366,sweeping their hand in the air. it kind of reminded me of a violin playing motion,29,424
+381,425,15,5,dispenseSoap_absent,dispenseSoap,absent,6,4897,moving one hand up and down relative to their other hand that stayed still. looked like describing size of something,29,425
+382,420,15,0,crushBottle_do,crushBottle,do,5,8706,"crumpling a water bottle
+",29,420
+383,427,15,7,drawLine_far,drawLine,far,5,5830,sliding their hand with pinched fingers,29,427
+384,428,15,8,sprayBottle_far,sprayBottle,far,5,7224,bending their finger,29,428
+385,429,15,9,tweezeTweezer_absent,tweezeTweezer,absent,4,7198,tapped their thumb on the outside of their hand ,29,429
+386,430,15,10,insertAirpod_absent,insertAirpod,absent,5,6398,moved their hand up to their ear,29,430
+387,431,15,11,pullTissue_far,pullTissue,far,4,6838,moved their hand in the air - kind of just looked like they were shifting ,29,431
+388,426,15,6,peelPostIt_do,peelPostIt,do,2,4642,ripping off a sticky note,29,426
+389,432,15,12,openGluestick_far,openGluestick,far,6,6080,moved one hand up relative to the other hand,29,432
+390,861,16,21,flipPage_far,flipPage,far,6,3081,pretending to flip page,29,861
+391,862,16,22,eraseMark_absent,eraseMark,absent,5,9348,moved one hand away from other on the desk...idk what they were trying to communicate,29,862
+392,863,16,23,pressRemote_do,pressRemote,do,1,3504,using a remote,29,863
+393,864,16,24,twistCube_far,twistCube,far,6,6569,acting like solving a rubicks cube,29,864
+394,865,16,25,flickTrash_absent,flickTrash,absent,5,5896,acting like flicking something,29,865
+395,869,16,29,tweezeTweezer_do,tweezeTweezer,do,1,3294,using tweezers,29,869
+396,868,16,28,openCan_do,openCan,do,1,3775,opening a can,29,868
+397,840,16,0,zipPlasticBag_do,zipPlasticBag,do,1,7699,zipping a bag,29,840
+398,841,16,1,insertAirpod_do,insertAirpod,do,1,7590,putting an airpod in,29,841
+399,842,16,2,pullTissue_absent,pullTissue,absent,1,6535,moved hand a little bit,29,842
+400,860,16,20,swipePhone_far,swipePhone,far,6,4720,pretending to swipe on phone,29,860
+401,866,16,26,foldNapkin_do,foldNapkin,do,1,3110,folding a napkin,29,866
+402,859,16,19,openSnack_absent,openSnack,absent,5,6199,maybe tearing something,29,859
+403,867,16,27,drawLine_absent,drawLine,absent,5,5225,moving hand along desk,29,867
+404,856,16,16,tapPhone_far,tapPhone,far,6,4877,pretending to tap a phone,29,856
+405,858,16,18,chargePhone_far,chargePhone,far,6,3887,pretending to plug in phone,29,858
+406,843,16,3,openGluestick_absent,openGluestick,absent,2,7336,moved hand...maybe demonstratitng something,29,843
+407,844,16,4,sprayBottle_absent,sprayBottle,absent,4,9078,"bending finger 
+",29,844
+408,845,16,5,foldPaper_do,foldPaper,do,1,4863,folding paper,29,845
+409,846,16,6,drinkCup_absent,drinkCup,absent,5,12244,motion like they were tipping a water bottle ,29,846
+410,847,16,7,drinkMug_far,drinkMug,far,2,4695,moving their fist up,29,847
+411,848,16,8,closeJar_do,closeJar,do,1,4560,opening a jar,29,848
+412,857,16,17,dispenseSoap_do,dispenseSoap,do,1,5253,squirting hand sanitizer,29,857
+413,850,16,10,snipScissors_absent,snipScissors,absent,6,6618,"closing hand, like demonstrating something is small or to be quiet",29,850
+414,851,16,11,brushTableBroom_do,brushTableBroom,do,1,4240,sweeping,29,851
+415,849,16,9,crushBottle_far,crushBottle,far,5,6423,"curling hand inwards to themselves, maybe asking for the water",29,849
+416,852,16,12,blowCandle_absent,blowCandle,absent,1,4927,blowing air,29,852
+417,853,16,13,peelPostIt_far,peelPostIt,far,4,10920,moved one hand away from other hand,29,853
+418,854,16,14,openLid_far,openLid,far,5,4695,acting like twisting a bottle top off,29,854
+419,855,16,15,igniteLighter_far,igniteLighter,far,5,4128,acting like lighting a lighter,29,855
+420,888,17,18,drinkMug_absent,drinkMug,absent,5,8031,seemed to be a clip of counting down for rock paper scissors.,29,888
+421,889,17,19,closeJar_far,closeJar,far,4,4959,opening a jar,29,889
+422,890,17,20,openLid_absent,openLid,absent,2,7400,twisting 2 fingers in the air,29,890
+423,891,17,21,openGluestick_do,openGluestick,do,4,8609,opening chapstick,29,891
+424,892,17,22,brushTableBroom_far,brushTableBroom,far,4,10775,sweeping,29,892
+425,894,17,24,drinkCup_do,drinkCup,do,4,6767,drinking from a cup,29,894
+426,887,17,17,sprayBottle_do,sprayBottle,do,5,6024,spraying a bottle in the air,29,887
+427,895,17,25,flipPage_absent,flipPage,absent,5,12247,explaining a width of a goal post,29,895
+428,896,17,26,swipePhone_absent,swipePhone,absent,5,6615,"swipes finger on hand,perhaps to support a demonstration/explanation",29,896
+429,897,17,27,foldPaper_far,foldPaper,far,5,6704,folding a paper in half,29,897
+430,898,17,28,flickTrash_do,flickTrash,do,6,7480,"playing paper soccer, the person in front just ""kicked"" the ball",29,898
+431,899,17,29,twistCube_absent,twistCube,absent,4,9512,opening a jar,29,899
+432,893,17,23,igniteLighter_absent,igniteLighter,absent,4,10216,"pressing a button, perhaps pepperspray",29,893
+433,886,17,16,pullTissue_do,pullTissue,do,4,5111,getting a tissue,29,886
+434,883,17,13,drawLine_do,drawLine,do,3,7632,drawing a line,29,883
+435,884,17,14,dispenseSoap_far,dispenseSoap,far,4,8631,getting hand sanitizer,29,884
+436,882,17,12,zipPlasticBag_far,zipPlasticBag,far,4,9749,closing a ziploc,29,882
+437,881,17,11,pressRemote_far,pressRemote,far,4,69742,Pressing  a button on an invisible remote,29,881
+438,880,17,10,snipScissors_do,snipScissors,do,1,5687,cut the air,29,880
+439,879,17,9,crushBottle_absent,crushBottle,absent,5,7006,flexed hand mid conversation,29,879
+440,877,17,7,openSnack_do,openSnack,do,2,7631,Just opened a bag,29,877
+441,876,17,6,foldNapkin_far,foldNapkin,far,5,10006,Seemed to play a hand game. index fingers were on top of the thumbs and slid back towards the hand.,29,876
+442,875,17,5,eraseMark_do,eraseMark,do,2,6343,calmly attempted to erase the line.,29,875
+443,874,17,4,openCan_far,openCan,far,2,31627,Bent index finger.,29,874
+444,873,17,3,insertAirpod_far,insertAirpod,far,5,13109,Appeared to reach for the airpod then decided not to. Possibly conveying sense of disinterest in a conversation.,29,873
+445,872,17,2,chargePhone_absent,chargePhone,absent,2,18847,"The left hand, which was palm up open and the right hand which was palm up half closed moved toward each other in the center.",29,872
+446,871,17,1,tapPhone_absent,tapPhone,absent,3,10175,appeared to be counting something.,29,871
+447,870,17,0,peelPostIt_absent,peelPostIt,absent,2,10213,moving hand to the side.,29,870
+448,885,17,15,blowCandle_do,blowCandle,do,4,7782,blowing a candle,29,885
+449,878,17,8,tweezeTweezer_far,tweezeTweezer,far,1,10383,Just bent finger,29,878
+450,238,18,28,tweezeTweezer_do,tweezeTweezer,do,5,4750,showing the act of closing the tweezers for use,29,238
+451,210,18,0,drinkMug_far,drinkMug,far,2,6579,lifting up a fist,29,210
+452,213,18,3,pressRemote_absent,pressRemote,absent,1,6334,"Finger dropped. no meaning to this
+",29,213
+453,214,18,4,foldNapkin_far,foldNapkin,far,1,6005,I did not understand. The hand movement made no sense,29,214
+454,215,18,5,openSnack_far,openSnack,far,7,4205,The person wants to open the bag,29,215
+455,216,18,6,igniteLighter_far,igniteLighter,far,5,4086,Light the lighter,29,216
+456,217,18,7,snipScissors_absent,snipScissors,absent,3,3789,seems like a gesture for quiteness,29,217
+457,218,18,8,openGluestick_absent,openGluestick,absent,1,5747,I dont know,29,218
+458,219,18,9,brushTableBroom_do,brushTableBroom,do,7,4103,sweeping the paper,29,219
+459,220,18,10,flipPage_absent,flipPage,absent,3,3942,Jumping over something or moving?,29,220
+460,221,18,11,closeJar_do,closeJar,do,6,4279,opening a jar,29,221
+461,222,18,12,twistCube_do,twistCube,do,5,3747,solving a rubix cube,29,222
+462,223,18,13,flickTrash_do,flickTrash,do,6,3544,annoying someone? flinging a paper across the table,29,223
+463,224,18,14,insertAirpod_far,insertAirpod,far,6,6143,put airpod in,29,224
+464,212,18,2,drawLine_far,drawLine,far,3,4291,with the pencil in context I understood what it was saying but the gesture was not communicative,29,212
+465,239,18,29,eraseMark_absent,eraseMark,absent,6,5012,flipping a page,29,239
+466,226,18,16,crushBottle_absent,crushBottle,absent,2,4315,This has no meaning to me,29,226
+467,227,18,17,openCan_absent,openCan,absent,1,4454,no meaning,29,227
+468,228,18,18,openLid_absent,openLid,absent,4,5293,looks like shes trying to open something but im not sure,29,228
+469,229,18,19,foldPaper_absent,foldPaper,absent,5,3622,folding an object,29,229
+470,230,18,20,tapPhone_far,tapPhone,far,5,4824,"""using an iphone""",29,230
+471,231,18,21,zipPlasticBag_do,zipPlasticBag,do,7,4733,zipping and unzipping a bag,29,231
+472,232,18,22,peelPostIt_do,peelPostIt,do,7,4018,taking a post-it note off the pad,29,232
+473,233,18,23,pullTissue_do,pullTissue,do,6,4354,using a kleenex,29,233
+474,234,18,24,chargePhone_do,chargePhone,do,7,3685,plugging in iphohne,29,234
+475,235,18,25,sprayBottle_absent,sprayBottle,absent,1,4615,not sure,29,235
+476,236,18,26,swipePhone_do,swipePhone,do,5,4742,"swiping something on phone, maybe the action of deleting",29,236
+477,237,18,27,blowCandle_far,blowCandle,far,5,3756,gesturing a blowing out of candles,29,237
+478,225,18,15,dispenseSoap_far,dispenseSoap,far,5,3791,use hand sanitizer,29,225
+479,211,18,1,drinkCup_far,drinkCup,far,5,4590,shows the action of drinking from a cup,29,211
+480,418,19,28,pullTissue_far,pullTissue,far,5,16983,hand in a pinching motion and swiping the hand up,29,418
+481,390,19,0,chargePhone_far,chargePhone,far,4,13869,"Held both of their hands up, one hand in a cupping motion and the other acted like it was holding a pencil",29,390
+482,417,19,27,insertAirpod_absent,insertAirpod,absent,5,7493,Raising their hand in a pinching motion and bringing the hand to their ear,29,417
+483,416,19,26,openGluestick_do,openGluestick,do,3,4541,Taking off the cap of a glue stick or lip balm,29,416
+484,415,19,25,igniteLighter_absent,igniteLighter,absent,6,10831,They acting as if they are holding a lighter and lighting it,29,415
+485,414,19,24,blowCandle_absent,blowCandle,absent,4,12072,"Pursing their lips to make an ""o"" shape",29,414
+486,413,19,23,swipePhone_far,swipePhone,far,5,9872,One hand in a cupping formation with the other making a swiping motion above the other hand,29,413
+487,412,19,22,openSnack_absent,openSnack,absent,6,6472,Making a pinching motion in both hands and then twisting the hands in opposite directions,29,412
+488,411,19,21,flickTrash_far,flickTrash,far,6,11054,Making a flicking motion with their thumb and pointer finger,29,411
+489,410,19,20,flipPage_do,flipPage,do,3,5822,Turning a page of a book,29,410
+490,409,19,19,eraseMark_do,eraseMark,do,3,11766,Trying to erase a pen marking with an eraser,29,409
+491,408,19,18,zipPlasticBag_far,zipPlasticBag,far,6,9504,One hand in the fist with the other in a pinching motion. The hands started together with the pinching hand moving away from the other fist,29,408
+492,407,19,17,foldNapkin_absent,foldNapkin,absent,4,10809,Pointer fingers laid over their thumbs and then moved across the thumbs as their hands sat in the air,29,407
+493,406,19,16,openCan_do,openCan,do,2,5444,Opening a bottle of juice,29,406
+494,419,19,29,pressRemote_do,pressRemote,do,3,4221,Pressing buttons on a TV remote,29,419
+495,405,19,15,foldPaper_do,foldPaper,do,3,8352,Folding a piece of paper in half,29,405
+496,402,19,12,drinkCup_absent,drinkCup,absent,6,5139,Cupping their hand as if they were holding something and then gesturing towards themselves,29,402
+497,401,19,11,closeJar_far,closeJar,far,7,14409,Performing the actions of unscrewing a jar,29,401
+498,400,19,10,crushBottle_do,crushBottle,do,3,5150,Squeezing a water bottle,29,400
+499,399,19,9,drawLine_absent,drawLine,absent,6,8184,Hand formed almost like they're holding a pencil and moving it across the desk,29,399
+500,398,19,8,snipScissors_do,snipScissors,do,4,9128,Cutting scissors in the air,29,398
+501,397,19,7,drinkMug_absent,drinkMug,absent,4,7284,Raising their fist up towards themselves,29,397
+502,396,19,6,sprayBottle_do,sprayBottle,do,2,8743,Spraying a sunscreen bottle,29,396
+503,395,19,5,twistCube_far,twistCube,far,7,7802,they are mimicing the actions of solving a rubiks cube,29,395
+504,394,19,4,openLid_do,openLid,do,1,10502,They're opening a water bottle lid,29,394
+505,393,19,3,brushTableBroom_far,brushTableBroom,far,6,7263,"Gesture felt similar to a movement a conductor would make, kind of like a motion of playing a string instrument",29,393
+506,392,19,2,peelPostIt_far,peelPostIt,far,6,13093,One hand in a fist the other acted as if it was pulling something like a rope away from the other hand,29,392
+507,391,19,1,tapPhone_absent,tapPhone,absent,6,6587,One open hand with the other hand pointing a finger and making a downwards motion towards their other hand,29,391
+508,403,19,13,dispenseSoap_absent,dispenseSoap,absent,6,11190,Hands flat in the air with their palms facing opposite directions. They then moved one hand up and then brought it back down to be level with the other hand. ,29,403
+509,404,19,14,tweezeTweezer_far,tweezeTweezer,far,6,14775,Making a pinching motion,29,404
+510,0,20,0,snipScissors_far,snipScissors,far,2,22526,"the girl was making a mouth closing motion with her hand, i was also distracted by the scissors that were large and in the frame",29,0
+511,15,20,15,openLid_far,openLid,far,6,12664,"since there is a water bottle in front of me, i think she is asking for me to open it.",29,15
+512,1,20,1,openCan_far,openCan,far,5,8890,"i assumed that since there is a can of apple juice, that the hand motion was communicating for me to nudge it towards her.she did a sort of ""bring to me"" motion",29,1
+513,2,20,2,pressRemote_far,pressRemote,far,6,8828,"the girl was pressing an imaginary tv remote. since there is a remote in front of her, i would assume she is asking for the remote",29,2
+514,3,20,3,flickTrash_absent,flickTrash,absent,2,7695,"it looks like she is just flicking dust away on the table, not really saying anything to me",29,3
+515,4,20,4,chargePhone_absent,chargePhone,absent,2,21775,"it looks as if she is pretending to hold a phone in her hand and plug in a cord. however, that doesn't really communicate much to me, and that was only the conclusion i came to after making an inference, it was not very obvious",29,4
+516,5,20,5,dispenseSoap_do,dispenseSoap,do,1,9127,"she looks as if she is just using hand sanitizer, which does not involve me at all",29,5
+517,6,20,6,drawLine_do,drawLine,do,5,5616,"she is making a mark on a paper. it looks as if she may be starting to draw or write something that could communicate a message, but just a line does not tell me very much for now. ",29,6
+518,7,20,7,drinkCup_do,drinkCup,do,1,6745,"she was taking a sip of a drink. that does not really involve me. if she is drinking something, she is not talking to me. ",29,7
+519,8,20,8,closeJar_absent,closeJar,absent,6,9481,"she is making a motion like she is opening a jar. if there was a jar in front of me that i needed help opening, this would effectively communicate that she would help me.",29,8
+520,9,20,9,sprayBottle_far,sprayBottle,far,7,8297,"she is making a motion as if she is spraying something in a bottle. since there is a bottle of sunscreen, this can communicate that she wants a turn to use the sunscreen.",29,9
+521,10,20,10,igniteLighter_do,igniteLighter,do,1,14318,"she seems to just to be using a lighter, which doesn't really involve me.",29,10
+522,11,20,11,tapPhone_do,tapPhone,do,1,18583,"she's using her phone, which does not involve me.",29,11
+523,12,20,12,insertAirpod_do,insertAirpod,do,2,18029,"if she is putting in airpods to listen to her own music, that would not involve me at all and be a 1. my assumption could be that since we are at a table together and she is only putting in one airpod, that we could be sharing music through airpods which could connect us. ",29,12
+524,13,20,13,peelPostIt_absent,peelPostIt,absent,5,13247,"the motion looked like tearing a paper to me. if we were in class and a teacher said we only needed half sheets of paper, i would assume that this motion meant for me to tear the paper in half and give her the other. ",29,13
+525,29,20,29,tweezeTweezer_absent,tweezeTweezer,absent,2,20457,she presses her thumb into her other fingers. this looks like something someone does when they're fidgeting while nervous. i don't really understand how it involves me,29,29
+526,16,20,16,swipePhone_absent,swipePhone,absent,3,21024,"it looks as if she is sending a text from her phone, but i'm not sure if this is to me? it depends on the situation, but this could either be rude or be her communicating with me",29,16
+527,28,20,28,pullTissue_absent,pullTissue,absent,4,6727,"she looks to be motioning for me to pick something up? but since there is nothing in frame to inform me of what, i kind of don't understand what she is referring to",29,28
+528,27,20,27,foldNapkin_do,foldNapkin,do,1,6889,"she seems to be folding a napkin, which doesn't really involve me",29,27
+529,26,20,26,blowCandle_do,blowCandle,do,1,4600,"she was blowing out a candle. the smoke comes over and gets in my face, which is RUDE!!!! i guess blowing out a candle could signal the end of our time together, but the smoke blowing over into my face was very off putting so i put a 1 because that's very inconsiderate of me. ",29,26
+530,14,20,14,flipPage_far,flipPage,far,6,5367,"since there is a book in front of her, i would assume this is communicating for me to turn the page.",29,14
+531,24,20,24,twistCube_absent,twistCube,absent,2,15256,"she looks as if she is turning a dial in her hand, but since there's no context clues or objects to let me know what she is referencing and the gesture itself is not that distinctive, i kind of don't know what she is trying to communicate",29,24
+532,23,20,23,openGluestick_far,openGluestick,far,7,5265,"there is chapstick on the table between us, which i'm assuming belongs to me. she is making a motion like taking the cap off of the chapstick, which to me clearly communicates she wants me to open it so she can use the chapstick. ",29,23
+533,25,20,25,eraseMark_far,eraseMark,far,6,6215,"there is a paper with a streak on it and an eraser in the frame. she made a motion like that of the streak, so i assumed she is asking for me to erase the streak. ",29,25
+534,21,20,21,foldPaper_far,foldPaper,far,6,10535,"from the motion and the paper in front of her, i'm assuming this is her asking for me to help her fold the paper, which is pretty clear in this situation. ",29,21
+535,20,20,20,openSnack_do,openSnack,do,2,8608,"it looks as if she is just opening a bag of chips. i don't know if they are just for her or if they are to share with me? if she is opening a bag just for herself, that does not really communicate with me. but if we are sharing, that's like a 4 because then she's signaling ""let's eat this together!""",29,20
+536,19,20,19,zipPlasticBag_absent,zipPlasticBag,absent,6,7127,"it looks as if she is closing a ziploc bag. if we're sharing snacks and she does this motion to me, i know she is good and i can close the bag. ",29,19
+537,18,20,18,drinkMug_do,drinkMug,do,2,11902,"she looks as if she is just looking at a coffee mug. her concerned expression kind of says maybe ""hey this is weird"" or something, but since it is oriented towards her and she is not extending it in my direction, i feel that it does not involve me very much.",29,18
+538,17,20,17,brushTableBroom_absent,brushTableBroom,absent,1,9295,"i have no idea what that motion was supposed to mean. i feel like motions are important to CLEARLY communicate something, so if i do not understand what she is trying to say with the gesture, i don't think she is communicating anything.",29,17
+539,22,20,22,crushBottle_far,crushBottle,far,5,8680,"she looks as if she is crushing a pretend water bottle in her hand. since there is an empty water bottle in front of me, i assumed that she is asking for it so she can crush it and throw it away.",29,22
+540,916,21,16,drawLine_do,drawLine,do,5,4700,She is showing how to draw a line with a pencil on a piece of paper.,29,916
+541,917,21,17,openGluestick_do,openGluestick,do,5,4286,She is opening a glue stick.,29,917
+542,918,21,18,drinkCup_far,drinkCup,far,4,7412,"She is showing the hand motions of drinking from a cup, with a cup placed in front of her.",29,918
+543,919,21,19,igniteLighter_do,igniteLighter,do,5,4681,She is showing how to turn on a lighter.,29,919
+544,920,21,20,crushBottle_far,crushBottle,far,4,5357,"She is showing what happens if you slightly poke an empty water bottle, how it easily moves.",29,920
+545,927,21,27,openLid_do,openLid,do,5,4023,She is opening a water bottle.,29,927
+546,922,21,22,blowCandle_absent,blowCandle,absent,3,7492,She is showing how to whistle or blow.,29,922
+547,923,21,23,pullTissue_absent,pullTissue,absent,2,4327,She is raising her fist slightly.,29,923
+548,924,21,24,openCan_do,openCan,do,4,4910,She is showing how to open a can of apple juice.,29,924
+549,925,21,25,openSnack_far,openSnack,far,4,5359,"She is showing the hand motions of opening a bag of chips, with a bag of chips placed in front of her.",29,925
+550,926,21,26,swipePhone_far,swipePhone,far,3,4813,"She is showing how to swipe on a phone, with a phone placed in front of her on a desk.",29,926
+551,915,21,15,closeJar_do,closeJar,do,4,6637,She has a jar in her hand and is showing how to open it.,29,915
+552,921,21,21,chargePhone_absent,chargePhone,absent,3,7102,It looks like she is showing the hand motions of how to load a gun (but with no real gun anywhere around her).,29,921
+553,914,21,14,pressRemote_far,pressRemote,far,3,6247,"She is showing the hand motions of turning on a TV with a remote, with a real remote placed in front of her.",29,914
+554,907,21,7,peelPostIt_absent,peelPostIt,absent,2,6710,She appears to be nonverbally explaining the hand motions of opening a zipper.,29,907
+555,912,21,12,foldPaper_absent,foldPaper,absent,2,5091,She is showing the hand motions of placing an object on a table.,29,912
+556,911,21,11,brushTableBroom_do,brushTableBroom,do,4,6414,She is showing how to use a dustpan and broom.,29,911
+557,910,21,10,snipScissors_far,snipScissors,far,3,4861,She is showing the hand motions of using a pair of scissors.,29,910
+558,909,21,9,flipPage_far,flipPage,far,3,3801,She is showing the hand motions of flipping a page in a book,29,909
+559,908,21,8,foldNapkin_absent,foldNapkin,absent,2,7839,She appears to be nonverbally explaining the hand motions of pulling something toward you.,29,908
+560,906,21,6,zipPlasticBag_far,zipPlasticBag,far,2,8197,She is nonverbally explaining the hand motions of opening a ziploc bag.,29,906
+561,905,21,5,insertAirpod_absent,insertAirpod,absent,1,6407,It looks like she is just pinning her hair behind her ear.,29,905
+562,904,21,4,sprayBottle_absent,sprayBottle,absent,2,6100,She is moving her pointer finger down and upward.,29,904
+563,903,21,3,drinkMug_absent,drinkMug,absent,2,7429,She is raising her fist slightly.,29,903
+564,902,21,2,dispenseSoap_do,dispenseSoap,do,2,10293,She is pumping hand sanitizer onto her hand with no facial expression.,29,902
+565,901,21,1,twistCube_far,twistCube,far,3,8124,"She was non verbally explaining the hand motions of solving a rubix cube, but with no expression.",29,901
+566,928,21,28,flickTrash_do,flickTrash,do,5,3644,She is flicking a piece of paper on the desk.,29,928
+567,900,21,0,tapPhone_absent,tapPhone,absent,2,7750,She was tapping her finger against her hand with no expression.,29,900
+568,913,21,13,tweezeTweezer_far,tweezeTweezer,far,3,5878,"She is showing the hand motions of how to use tweezers, with a pair of tweezers in front of her.",29,913
+569,929,21,29,eraseMark_do,eraseMark,do,5,4027,She is erasing a line on a paper.,29,929
+570,481,22,1,tapPhone_do,tapPhone,do,1,12723,"Pressing a button on her phone, perhaps showing how to work something on her phone",29,481
+571,482,22,2,pullTissue_do,pullTissue,do,5,12214,Pulling a tissue from the box,29,482
+572,480,22,0,igniteLighter_far,igniteLighter,far,2,13420,Showing how to activate the lighter,29,480
+573,509,22,29,swipePhone_absent,swipePhone,absent,4,4804,"It appears that she is swiping on her phone, maybe going to the next picture or sliding to the next page",29,509
+574,508,22,28,drawLine_far,drawLine,far,5,5445,She is showing how to draw a straight line on the paper with the pencil,29,508
+575,507,22,27,openGluestick_far,openGluestick,far,6,7911,She is showing how to pop the cap off the tube of chapstick,29,507
+576,506,22,26,snipScissors_absent,snipScissors,absent,3,9736,It looks as if she is saying to be quiet because she is closing her fingers together,29,506
+577,505,22,25,brushTableBroom_far,brushTableBroom,far,6,5415,She is showing how to brush the trash into the tray,29,505
+578,504,22,24,tweezeTweezer_absent,tweezeTweezer,absent,2,15397,"I am not quite sure what she is doing, perhaps grabbing onto something? Not sure why she uses he thumb to press",29,504
+579,503,22,23,insertAirpod_do,insertAirpod,do,6,9960,She is putting an earbud into her ear,29,503
+580,501,22,21,drinkCup_absent,drinkCup,absent,4,5597,She looks to be bringing a can to her face to look into it or to drink from it,29,501
+581,500,22,20,openLid_far,openLid,far,6,6928,She is showing how she would unscrew the cap off the plastic water bottle,29,500
+582,499,22,19,zipPlasticBag_absent,zipPlasticBag,absent,5,5532,She looks to be zipping up a plastic zip-lock bag,29,499
+583,498,22,18,foldNapkin_do,foldNapkin,do,5,5014,She is folding the tissue into a triangle,29,498
+584,497,22,17,flickTrash_far,flickTrash,far,5,5069,She is mimicking how she would flick the crumpled up paper away,29,497
+585,502,22,22,twistCube_absent,twistCube,absent,2,14757,"I am not quite sure what she is doing, she is making a twisting motion with her hands",29,502
+586,495,22,15,sprayBottle_do,sprayBottle,do,6,3979,"She is spraying a scented pump, maybe a dry shampoo or some type of aerosol can ",29,495
+587,496,22,16,openCan_far,openCan,far,6,5256,She is popping the tab on the can of juice,29,496
+588,484,22,4,flipPage_absent,flipPage,absent,2,11982,"Without context it is hard to tell, perhaps showing how to get from point A to point B, showing some distance covered",29,484
+589,485,22,5,peelPostIt_do,peelPostIt,do,6,4974,Ripping a sticky note off of the sticky pad,29,485
+590,486,22,6,dispenseSoap_far,dispenseSoap,far,6,11303,Showing how to get hand sanitizer from the bottle by pushing down on the pump with her hand underneath it to catch the sanitizer,29,486
+591,487,22,7,foldPaper_do,foldPaper,do,6,8038,She is folding a paper in half,29,487
+592,488,22,8,eraseMark_far,eraseMark,far,5,6031,She is showing how to use the eraser to get rid of the pencil line,29,488
+593,483,22,3,closeJar_far,closeJar,far,6,6670,Unscrewing the cap off of the jar,29,483
+594,490,22,10,chargePhone_do,chargePhone,do,6,7469,She is plugging in her phone with a charger,29,490
+595,491,22,11,pressRemote_absent,pressRemote,absent,4,6169,"It appears that she is pressing down a button on a remote, perhaps for a TV",29,491
+596,492,22,12,drinkMug_do,drinkMug,do,4,5583,"She is peering into her mug, perhaps looking to see how much is left",29,492
+597,493,22,13,crushBottle_absent,crushBottle,absent,3,8275,"She may be grabbing hold of something? It is hard to tell
+",29,493
+598,494,22,14,openSnack_absent,openSnack,absent,4,4935,"She looks as if she is ripping a piece of paper, tearing the top",29,494
+599,489,22,9,blowCandle_do,blowCandle,do,7,5348,She is blowing out the candle,29,489
+600,947,23,17,zipPlasticBag_do,zipPlasticBag,do,6,4942,unzipping a bag,29,947
+601,948,23,18,openCan_absent,openCan,absent,4,9512,motioning how to scroll on a mouse,29,948
+602,949,23,19,pressRemote_do,pressRemote,do,6,4663,pressing a button on TV remote,29,949
+603,950,23,20,brushTableBroom_absent,brushTableBroom,absent,3,27984,swiping her hand towards the other hand,29,950
+604,951,23,21,tweezeTweezer_do,tweezeTweezer,do,5,7231,pinching the tweezers,29,951
+605,954,23,24,twistCube_do,twistCube,do,6,3887,twisting a rubix cube,29,954
+606,953,23,23,insertAirpod_far,insertAirpod,far,5,5832,demonstrating how to put an AirPod in your ear,29,953
+607,955,23,25,crushBottle_do,crushBottle,do,6,4736,squeezing an empty water bottle,29,955
+608,956,23,26,drawLine_absent,drawLine,absent,5,5714,drawing a straight line,29,956
+609,957,23,27,pullTissue_far,pullTissue,far,5,4696,demonstrating how to pull out a tissue from the tissue box,29,957
+610,946,23,16,dispenseSoap_absent,dispenseSoap,absent,3,8064,clapping with hands apart,29,946
+611,952,23,22,swipePhone_do,swipePhone,do,6,5577,swiping on her phone,29,952
+612,945,23,15,openLid_absent,openLid,absent,4,10418,unscrewing a bottle cap (the motion),29,945
+613,930,23,0,foldNapkin_far,foldNapkin,far,3,20950,"bringing her finger towards her
+",29,930
+614,943,23,13,openGluestick_absent,openGluestick,absent,4,13856,peeling carrots with a peeling tool (that motion),29,943
+615,942,23,12,snipScissors_do,snipScissors,do,6,10576,closing the scissors,29,942
+616,941,23,11,foldPaper_far,foldPaper,far,5,10040,demonstrating how to fold the paper,29,941
+617,940,23,10,drinkCup_do,drinkCup,do,5,9859,lifting and tipping the cup towards her mouth,29,940
+618,939,23,9,chargePhone_far,chargePhone,far,6,11222,demonstrating how to charge the phone by showing the motion of plugging the charger in the phone,29,939
+619,938,23,8,flipPage_do,flipPage,do,6,5055,flipping a page in a book,29,938
+620,937,23,7,igniteLighter_absent,igniteLighter,absent,4,8493,clicking something with her thumb,29,937
+621,936,23,6,blowCandle_far,blowCandle,far,5,9080,blowing as if blowing out the candle (just demonstration though),29,936
+622,935,23,5,tapPhone_far,tapPhone,far,6,13317,showing how to tap on the phone,29,935
+623,934,23,4,sprayBottle_far,sprayBottle,far,5,7733,imitating how to spray the spray can,29,934
+624,933,23,3,eraseMark_absent,eraseMark,absent,3,25206,"sliding her hand forwards, kind of like writing but not really",29,933
+625,932,23,2,flickTrash_absent,flickTrash,absent,3,10054,flicking something towards me,29,932
+626,931,23,1,peelPostIt_far,peelPostIt,far,4,20836,"imitating ripping a paper off the notepad
+",29,931
+627,944,23,14,openSnack_do,openSnack,do,6,12035,opening a bag of chips,29,944
+628,958,23,28,drinkMug_far,drinkMug,far,5,6641,lifting the cup to drink (the motion),29,958
+629,959,23,29,closeJar_absent,closeJar,absent,5,6599,opening a big cap (the motion),29,959
+630,976,24,16,openSnack_absent,openSnack,absent,5,5255,made the motion of tearing a piece of paper,29,976
+631,989,24,29,crushBottle_far,crushBottle,far,4,11951,folded in her fingers towards her hand ,29,989
+632,988,24,28,closeJar_do,closeJar,do,4,6063,screwed a little on a jar,29,988
+633,987,24,27,peelPostIt_do,peelPostIt,do,4,5325,peeled off a post-it note ,29,987
+634,986,24,26,insertAirpod_far,insertAirpod,far,6,6304,replicated the hand motion of picking up and airpod and putting in her ear,29,986
+635,985,24,25,blowCandle_do,blowCandle,do,4,5575,blew out a candle,29,985
+636,984,24,24,openCan_absent,openCan,absent,4,14879,lifted up her hand and moved one finger in and out ,29,984
+637,983,24,23,snipScissors_do,snipScissors,do,5,16372,opened and closed a pair of scissors,29,983
+638,982,24,22,openGluestick_far,openGluestick,far,5,15367,made the hand motion of replicating taking the lid off a chapstick tube ,29,982
+639,981,24,21,pullTissue_far,pullTissue,far,5,15344,moved hand to replicate picking up a tissue out of the box ,29,981
+640,980,24,20,drawLine_absent,drawLine,absent,5,8799,made the hand motion of drawing a straight line ,29,980
+641,979,24,19,drinkMug_do,drinkMug,do,3,7016,lifted up a mug,29,979
+642,978,24,18,swipePhone_far,swipePhone,far,5,4815,made the hand motion of swiping on a phone screen,29,978
+643,977,24,17,flipPage_do,flipPage,do,3,9440,turned a book page,29,977
+644,962,24,2,chargePhone_far,chargePhone,far,3,9372,holding her hand up in front of her,29,962
+645,975,24,15,sprayBottle_far,sprayBottle,far,6,14031,moved her finger to demonstrate spraying the sunscreen,29,975
+646,974,24,14,drinkCup_absent,drinkCup,absent,5,7856,moving hand as if lifting up a glass of water to drink,29,974
+647,973,24,13,brushTableBroom_do,brushTableBroom,do,4,13944,sweeping trash up,29,973
+648,972,24,12,openLid_do,openLid,do,4,10439,unscrewing a water bottle lid,29,972
+649,971,24,11,igniteLighter_far,igniteLighter,far,6,9167,made the hand motion as if using a lighter,29,971
+650,970,24,10,flickTrash_absent,flickTrash,absent,4,11757,moved hand as if flicking something across the table,29,970
+651,969,24,9,tapPhone_do,tapPhone,do,4,8487,tapping on a phone,29,969
+652,968,24,8,zipPlasticBag_absent,zipPlasticBag,absent,6,15974,making a zipper motion ,29,968
+653,967,24,7,foldPaper_absent,foldPaper,absent,5,13406,moving hands as if putting something down on the table ,29,967
+654,966,24,6,twistCube_absent,twistCube,absent,5,10837,motioning turning something in her hand,29,966
+655,965,24,5,pressRemote_far,pressRemote,far,6,11084,motioning using a remote,29,965
+656,961,24,1,eraseMark_far,eraseMark,far,2,13947,moving her hand on the table,29,961
+657,964,24,4,foldNapkin_absent,foldNapkin,absent,4,24353,"holding up both hands in front of her, moving her fingers ",29,964
+658,963,24,3,tweezeTweezer_absent,tweezeTweezer,absent,3,15787,pinching her fingers together,29,963
+659,960,24,0,dispenseSoap_do,dispenseSoap,do,2,11032,using hand sanitizer,29,960
+660,116,25,26,drinkMug_far,drinkMug,far,6,3184,"From the cup placed in front of the person, it suggests that their motion has to do something with the cup. Specifically, they are holding an invisible cup and is bringing it up to their mouth to take a sip out of it.",29,116
+661,90,25,0,openGluestick_absent,openGluestick,absent,1,10920,The person is lifting their hands.,29,90
+662,91,25,1,flipPage_far,flipPage,far,6,14556,"The person is going through the motions of flipping a book, but is not actually flipping the pages.",29,91
+663,92,25,2,openLid_far,openLid,far,6,3997,The person is going through the motions of opening a water bottle. They are not actually opening the bottle that is placed in front of them.,29,92
+664,93,25,3,foldPaper_do,foldPaper,do,7,3419,The person is folding a paper.,29,93
+665,94,25,4,tweezeTweezer_do,tweezeTweezer,do,7,3858,The person is using a tweezer.,29,94
+666,95,25,5,sprayBottle_absent,sprayBottle,absent,2,4633,The person's pointer finger is bending down to potentially click something?,29,95
+667,96,25,6,closeJar_far,closeJar,far,6,3018,The person is going through the motions of unscrewing a cap but is not actually unscrewing the jar placed in front of them.,29,96
+668,97,25,7,brushTableBroom_far,brushTableBroom,far,6,2718,The person is gesturing a sweeping motion but is not actually using the sweeper placed in front of them.,29,97
+669,98,25,8,snipScissors_far,snipScissors,far,6,3534,The person is going through the motions of cutting/using the scissors. They are not actually using the scissors in front of them. ,29,98
+670,99,25,9,flickTrash_do,flickTrash,do,7,2813,The person is flicking/flinging a piece of paper.,29,99
+671,100,25,10,insertAirpod_absent,insertAirpod,absent,3,6591,The person is bringing something up to their ear. (The object does not actually exist.),29,100
+672,101,25,11,zipPlasticBag_do,zipPlasticBag,do,7,3329,The person is zipping a bag up.,29,101
+673,102,25,12,pressRemote_absent,pressRemote,absent,2,5169,"The person is pressing something with their thumb, except we don't know what item they are pressing on.",29,102
+674,103,25,13,tapPhone_far,tapPhone,far,6,2975,"From the phone placed in front of them, it suggests that they are holding a ""pretend"" phone while tapping on it.",29,103
+675,104,25,14,swipePhone_absent,swipePhone,absent,2,3796,The person is swiping on an invisible object.,29,104
+676,105,25,15,foldNapkin_do,foldNapkin,do,7,2282,The person is folding up a napkin in half. ,29,105
+677,107,25,17,chargePhone_absent,chargePhone,absent,2,3026,The person is shifting both of their hands towards each other. ,29,107
+678,108,25,18,igniteLighter_absent,igniteLighter,absent,2,3134,The person is pressing on their hand with their thumb. ,29,108
+679,109,25,19,openSnack_do,openSnack,do,7,2607,The person is opening up a bag of chips.,29,109
+680,110,25,20,peelPostIt_far,peelPostIt,far,6,6150,"From the post-it notes placed in front of the person, it suggests that from their motions they are peeling a post-it note.",29,110
+681,111,25,21,dispenseSoap_far,dispenseSoap,far,6,3260,"From the bottle placed in front of the person, it suggests that the person's motions is pumping the bottle.",29,111
+682,112,25,22,twistCube_do,twistCube,do,7,4028,The person is twisting the Rubrik cube. ,29,112
+683,113,25,23,drinkCup_do,drinkCup,do,7,4015,The person is bringing a cup up to their mouth and is about to take a sip from it.,29,113
+684,114,25,24,openCan_do,openCan,do,7,2792,The person is opening a can of apple juice. ,29,114
+685,115,25,25,blowCandle_far,blowCandle,far,7,6673,The person attempts to blow out the candle. ,29,115
+686,119,25,29,eraseMark_absent,eraseMark,absent,1,3937,The person has one of their hands faced down while the other hand is moving away. ,29,119
+687,117,25,27,drawLine_do,drawLine,do,7,3552,The person is drawing a line across the paper with the pencil they are holding in their hand.,29,117
+688,118,25,28,crushBottle_absent,crushBottle,absent,2,6006,The person is squeezing their hand.,29,118
+689,106,25,16,pullTissue_absent,pullTissue,absent,1,3654,The person is moving their hand up.,29,106
+690,990,26,0,chargePhone_do,chargePhone,do,2,9815,Charging their phone,29,990
+691,993,26,3,foldPaper_far,foldPaper,far,5,4182,They were laying the sheet of paper out.,29,993
+692,994,26,4,flickTrash_far,flickTrash,far,6,5662,She was flicking the crumpled up piece of paper.  ,29,994
+693,995,26,5,openCan_far,openCan,far,7,3512,She was opening the canned drink.,29,995
+694,997,26,7,pressRemote_do,pressRemote,do,5,4719,Pressing keys on her remote.,29,997
+695,998,26,8,pullTissue_do,pullTissue,do,5,3507,Taking out a tissue,29,998
+696,999,26,9,drinkCup_far,drinkCup,far,6,5646,Sipping from a cup,29,999
+697,1000,26,10,closeJar_absent,closeJar,absent,6,4062,Opening a jar,29,1000
+698,1001,26,11,flipPage_absent,flipPage,absent,2,3783,Moving her hand from one thing to the other... not quite clear.,29,1001
+699,1002,26,12,twistCube_far,twistCube,far,7,3447,Solving a Rubix cube,29,1002
+700,1003,26,13,foldNapkin_far,foldNapkin,far,4,6868,Folding a napkin,29,1003
+701,1004,26,14,blowCandle_absent,blowCandle,absent,4,4886,Either blowing or whistling through her mouth.,29,1004
+702,1005,26,15,igniteLighter_do,igniteLighter,do,7,4022,Turning on a lighter,29,1005
+703,992,26,2,drinkMug_absent,drinkMug,absent,4,9262,I honestly don't know.  It just looked like they were putting a fist up.  ,29,992
+704,1006,26,16,sprayBottle_do,sprayBottle,do,7,4463,Spraying a bottle,29,1006
+705,1008,26,18,swipePhone_do,swipePhone,do,6,4439,Swiping on her phone.,29,1008
+706,1009,26,19,insertAirpod_do,insertAirpod,do,7,5258,Putting an ear bud in,29,1009
+707,1010,26,20,brushTableBroom_absent,brushTableBroom,absent,1,3839,No idea. She just brushed her hand,29,1010
+708,1011,26,21,openLid_absent,openLid,absent,3,4224,Opening a cap,29,1011
+709,1012,26,22,dispenseSoap_absent,dispenseSoap,absent,5,5948,Pumping out lotion,29,1012
+710,1013,26,23,snipScissors_absent,snipScissors,absent,3,4247,Squeezing something,29,1013
+711,1014,26,24,crushBottle_do,crushBottle,do,7,2952,Crumpling up a water bottle,29,1014
+712,1015,26,25,tweezeTweezer_far,tweezeTweezer,far,7,3960,Using tweezers,29,1015
+713,1016,26,26,eraseMark_do,eraseMark,do,7,4904,Erasing a pencil mark on a sheet of paper,29,1016
+714,1017,26,27,zipPlasticBag_far,zipPlasticBag,far,7,3767,Zipping a bag up,29,1017
+715,1018,26,28,peelPostIt_absent,peelPostIt,absent,2,3520,"Ripping a sheet of paper?
+",29,1018
+716,1019,26,29,tapPhone_absent,tapPhone,absent,5,5136,Using her phone,29,1019
+717,1007,26,17,drawLine_far,drawLine,far,7,3710,Drawing a straight line with a pencil.,29,1007
+718,991,26,1,openSnack_far,openSnack,far,5,10635,"I think they are showing me how to open the bag of chips with their hands.  
+",29,991
+719,996,26,6,openGluestick_do,openGluestick,do,6,3542,Opening her lip balm (or some variation of lip product),29,996
+720,360,27,0,igniteLighter_far,igniteLighter,far,2,12896,asking for lighter,29,360
+721,389,27,29,flickTrash_absent,flickTrash,absent,4,4686,flicking something across table,29,389
+722,388,27,28,drinkMug_do,drinkMug,do,4,4905,looking into empty coffee mug,29,388
+723,387,27,27,insertAirpod_absent,insertAirpod,absent,5,9007,pretending to put in an airpod/earbud,29,387
+724,386,27,26,openCan_do,openCan,do,2,8272,playing with soda can topper,29,386
+725,385,27,25,openGluestick_do,openGluestick,do,2,4888,uncapping chapstick,29,385
+726,384,27,24,snipScissors_far,snipScissors,far,3,5513,miming use of scissors (to close or cut something),29,384
+727,383,27,23,openLid_do,openLid,do,2,8871,unscrewing cap on plastic water bottle,29,383
+728,382,27,22,blowCandle_absent,blowCandle,absent,4,17240,breathing out,29,382
+729,381,27,21,openSnack_absent,openSnack,absent,3,6305,miming tearing a wrapper?,29,381
+730,361,27,1,sprayBottle_absent,sprayBottle,absent,3,17773,not sure,29,361
+731,379,27,19,eraseMark_far,eraseMark,far,4,6255,erase the mark,29,379
+732,378,27,18,pullTissue_absent,pullTissue,absent,2,5783,arm gesture,29,378
+733,377,27,17,closeJar_far,closeJar,far,3,4467,unscrew lid,29,377
+734,376,27,16,swipePhone_do,swipePhone,do,2,7135,"swiping away a text/message on phone; not communicating, but I would do something similar if I was bored in a conversation, so it might count as nonverbal communication",29,376
+735,375,27,15,drawLine_do,drawLine,do,1,11408,drawing a line,29,375
+736,380,27,20,pressRemote_do,pressRemote,do,2,11968,changing channel by clicking TV remote,29,380
+737,362,27,2,zipPlasticBag_absent,zipPlasticBag,absent,4,14422,mimimg closing a ziplock bag,29,362
+738,374,27,14,tapPhone_far,tapPhone,far,4,5652,communicating that I should press the phone,29,374
+739,363,27,3,dispenseSoap_do,dispenseSoap,do,1,7231,putting on hand sanitizer,29,363
+740,364,27,4,crushBottle_far,crushBottle,far,1,6694,"some sort of hand movement, not communicative",29,364
+741,365,27,5,peelPostIt_far,peelPostIt,far,3,7662,asking for post it note,29,365
+742,367,27,7,flipPage_absent,flipPage,absent,2,6527,"not sure, if i was telling a story to a friend i might use a similar hand movement depending on situation",29,367
+743,366,27,6,foldPaper_far,foldPaper,far,3,5718,miming folding the piece of paper in half,29,366
+744,369,27,9,twistCube_far,twistCube,far,5,6967,showing how to turn rubics cube,29,369
+745,370,27,10,tweezeTweezer_absent,tweezeTweezer,absent,2,13110,some sort of click?,29,370
+746,371,27,11,foldNapkin_do,foldNapkin,do,4,7832,folding napkin; i might do something similar if conversation/meal was wrapping up,29,371
+747,372,27,12,chargePhone_absent,chargePhone,absent,3,7585,not sure,29,372
+748,373,27,13,brushTableBroom_far,brushTableBroom,far,5,11424,telling me to sweep up the straw wrapper,29,373
+749,368,27,8,drinkCup_do,drinkCup,do,1,5607,sipping coffee/beverage,29,368
+750,1038,28,18,igniteLighter_absent,igniteLighter,absent,6,8662,gesturing pressing a button,29,1038
+751,1042,28,22,openGluestick_far,openGluestick,far,6,10448,gesturing uncapping chapstick while a tube of chapstick was on the table,29,1042
+752,1039,28,19,sprayBottle_do,sprayBottle,do,4,9232,spraying a bottle,29,1039
+753,1040,28,20,openSnack_do,openSnack,do,3,10736,opening a bag of food,29,1040
+754,1041,28,21,peelPostIt_absent,peelPostIt,absent,5,12880,gesturing tearing open a bag of food,29,1041
+755,1043,28,23,drinkMug_far,drinkMug,far,6,8949,gesturing drinking out a mug while a mug was in front of my POV,29,1043
+756,1049,28,29,tapPhone_absent,tapPhone,absent,4,8097,gesturing tapping on a phone,29,1049
+757,1045,28,25,twistCube_absent,twistCube,absent,5,8186,moving one hand towards themselves while the other hand was stretched towards my POV,29,1045
+758,1046,28,26,brushTableBroom_absent,brushTableBroom,absent,5,13068,"moving one hand across their body while the other hand stayed stationary and stretched towards my POV, most likely gesturing something",29,1046
+759,1047,28,27,closeJar_absent,closeJar,absent,5,4464,gesturing opening a jar or bottle,29,1047
+760,1048,28,28,foldNapkin_far,foldNapkin,far,6,10761,"pointing to themselves while napkins were on the table, likely asking for the napkins to be passed towards them",29,1048
+761,1020,28,0,crushBottle_absent,crushBottle,absent,3,11697,"clenching their fist
+",29,1020
+762,1044,28,24,eraseMark_absent,eraseMark,absent,3,15040,"moving their hands over the table, most likely gesturing something",29,1044
+763,1023,28,3,flipPage_do,flipPage,do,3,9599,"turning a page in a book
+",29,1023
+764,1037,28,17,dispenseSoap_far,dispenseSoap,far,6,7520,gesturing using a bottle of hand sanitizer while a bottle of hand sanitizer was on the table,29,1037
+765,1035,28,15,insertAirpod_do,insertAirpod,do,6,4744,putting in an airpod,29,1035
+766,1036,28,16,openCan_far,openCan,far,6,7904,gesturing opening a can while a can is on the table,29,1036
+767,1022,28,2,tweezeTweezer_do,tweezeTweezer,do,3,17342,squeezing tweezers,29,1022
+768,1024,28,4,pullTissue_do,pullTissue,do,3,3945,taking a tissue from a box,29,1024
+769,1025,28,5,pressRemote_far,pressRemote,far,6,13144,gesturing a remote control while the remote control was in front of them,29,1025
+770,1026,28,6,drawLine_far,drawLine,far,6,13159,gesturing drawing a line while a pencil and paper was in front of my POV,29,1026
+771,1027,28,7,foldPaper_absent,foldPaper,absent,4,9967,gesturing moving something forward,29,1027
+772,1021,28,1,chargePhone_do,chargePhone,do,2,8614,charging their phone,29,1021
+773,1029,28,9,swipePhone_far,swipePhone,far,5,9567,gesturing swiping on a phone while the phone was on the table,29,1029
+774,1030,28,10,drinkCup_far,drinkCup,far,6,13383,gesturing pouring the cup towards themselves while the cup was on the table,29,1030
+775,1031,28,11,snipScissors_absent,snipScissors,absent,6,24800,squeezing their fingers together likely indicating to quiet down/stop talking,29,1031
+776,1032,28,12,zipPlasticBag_do,zipPlasticBag,do,3,5428,sealing a ziploc bag,29,1032
+777,1033,28,13,openLid_far,openLid,far,6,5704,gesturing opening a water bottle while a water bottle was on the table,29,1033
+778,1028,28,8,flickTrash_do,flickTrash,do,7,7487,flicking a small paper ball towards my POV,29,1028
+779,1034,28,14,blowCandle_do,blowCandle,do,4,7047,blowing out a candle,29,1034
+780,197,29,17,swipePhone_absent,swipePhone,absent,7,8708,Miming scrolling on a phone,29,197
+781,198,29,18,blowCandle_far,blowCandle,far,7,3745,Attempting or demonstrating blowing out a candle,29,198
+782,199,29,19,twistCube_do,twistCube,do,1,4851,Solving a rubix cube,29,199
+783,200,29,20,eraseMark_do,eraseMark,do,2,5743,Attempting to erase something on paper,29,200
+784,201,29,21,dispenseSoap_absent,dispenseSoap,absent,7,19934,Perhaps miming measuring something,29,201
+785,205,29,25,drawLine_absent,drawLine,absent,6,5079,Miming drawing something,29,205
+786,204,29,24,crushBottle_do,crushBottle,do,4,8799,Squeezing an empty water bottle,29,204
+787,196,29,16,pressRemote_absent,pressRemote,absent,6,5965,Miming clicking a remote,29,196
+788,206,29,26,tapPhone_do,tapPhone,do,2,7382,They're doing something on their phone,29,206
+789,208,29,28,tweezeTweezer_far,tweezeTweezer,far,7,2630,Miming using tweezers,29,208
+790,209,29,29,igniteLighter_do,igniteLighter,do,2,8214,Using a lighter,29,209
+791,202,29,22,snipScissors_do,snipScissors,do,6,4764,Miming cutting something using scissors,29,202
+792,195,29,15,foldPaper_do,foldPaper,do,3,8942,Folding paper,29,195
+793,207,29,27,peelPostIt_do,peelPostIt,do,2,7507,Pulling out a sticky note,29,207
+794,193,29,13,pullTissue_far,pullTissue,far,7,6254,Miming pulling out a tissue from a tissue box,29,193
+795,194,29,14,sprayBottle_far,sprayBottle,far,7,3323,Miming spraying sunblock,29,194
+796,180,29,0,chargePhone_far,chargePhone,far,7,6103,Miming plugging a charger into a phone,29,180
+797,181,29,1,closeJar_do,closeJar,do,1,17680,Opening a jar,29,181
+798,182,29,2,openSnack_far,openSnack,far,7,3577,"Miming opening a bag of chips, attempting to get the viewer to do so, or help with",29,182
+799,183,29,3,openGluestick_absent,openGluestick,absent,5,23333,Perhaps miming opening a bottle,29,183
+800,184,29,4,flickTrash_far,flickTrash,far,5,7425,Miming flicking a piece of trash,29,184
+801,185,29,5,zipPlasticBag_far,zipPlasticBag,far,7,4421,Miming closing a zip lock bag,29,185
+802,203,29,23,insertAirpod_far,insertAirpod,far,7,3424,Miming putting an airpod in their ear,29,203
+803,187,29,7,drinkMug_absent,drinkMug,absent,5,6526,"Miming lifting something up, maybe drinking",29,187
+804,188,29,8,openCan_absent,openCan,absent,5,9995,"Miming rolling something, or bekoning",29,188
+805,189,29,9,foldNapkin_absent,foldNapkin,absent,4,19618,Miming pulling something in with their forefingers and thumbs,29,189
+806,190,29,10,openLid_absent,openLid,absent,7,6743,Miming unscrewing a bottle,29,190
+807,191,29,11,brushTableBroom_do,brushTableBroom,do,2,14102,Cleaning up a piece of trash,29,191
+808,186,29,6,flipPage_far,flipPage,far,7,4531,Miming turning a page,29,186
+809,192,29,12,drinkCup_absent,drinkCup,absent,7,7834,Miming drinking something,29,192
+810,1068,30,18,swipePhone_absent,swipePhone,absent,5,7310,"The person has one flat hand out while the other hand has one finger that is swiping away from her hand. To me, this indicates scrolling on a phone.",29,1068
+811,1069,30,19,drinkCup_absent,drinkCup,absent,6,9366,The person has her hand in a cupping motion and is moving that hand closer to her. This could indicate that she is thirsty or in need of a beverage.,29,1069
+812,1070,30,20,drawLine_far,drawLine,far,6,5015,"The person is imitating holding a pencil and moving her hand horizontally, telling me that she wants me to draw a straight line with the pen and paper in front of us. ",29,1070
+813,1071,30,21,foldNapkin_do,foldNapkin,do,4,12452,The person is folding a paper diagonally into a triangle.,29,1071
+814,1072,30,22,zipPlasticBag_do,zipPlasticBag,do,7,10099,The person is sealing a plastic bag,29,1072
+815,1074,30,24,openSnack_do,openSnack,do,7,4550,The person is opening a bag of chips,29,1074
+816,1067,30,17,igniteLighter_absent,igniteLighter,absent,2,9527,"The person has one finger out while the rest of her hands make a fist. She is moving the finger up and down, but I am not too sure what she is signaling. This kind of looks like she is pushing down the top of a pen.",29,1067
+817,1075,30,25,eraseMark_absent,eraseMark,absent,1,20119,The person is moving one finger in one hand away from her other hand that lays flat on the table,29,1075
+818,1076,30,26,peelPostIt_absent,peelPostIt,absent,3,10598,The person is using one hand to pull something apart from her other hand,29,1076
+819,1077,30,27,tweezeTweezer_absent,tweezeTweezer,absent,2,23904,The person has her hand in a fist while the thumb taps the outside of her index finger.,29,1077
+820,1078,30,28,twistCube_far,twistCube,far,6,6103,The person is turning her hand as a way to indicate that she wants me to turn the sides of the rubix cube that is in front of us.,29,1078
+821,1079,30,29,dispenseSoap_far,dispenseSoap,far,7,4528,The person is indicating that she wants to use some hand sanitizer,29,1079
+822,1073,30,23,openGluestick_far,openGluestick,far,6,11251,"The person has one hand in a gripping motion while the other pulls away from the gripped hand. There is a glue stick in front of us, indicating that she wants me to open the cap of the glue.",29,1073
+823,1066,30,16,openCan_do,openCan,do,6,12989,The person is opening a can in front of me,29,1066
+824,1063,30,13,sprayBottle_absent,sprayBottle,absent,1,5909,"The person has one finger up and moved it up and down, but I don't exactly know what that gesture means",29,1063
+825,1064,30,14,insertAirpod_far,insertAirpod,far,7,8139,The person uses a picking up motion and signals that she wants me to use the earbud that is in front of us,29,1064
+826,1062,30,12,openLid_do,openLid,do,6,8180,"The person is opening the cap of an empty water bottle
+",29,1062
+827,1061,30,11,pullTissue_do,pullTissue,do,6,4135,The person is grabbing the tissue out of a tissue box ,29,1061
+828,1060,30,10,crushBottle_absent,crushBottle,absent,2,5780,"The person is closing their fist, but they did not close their first very hard so it's difficult to tell what they are communicating. ",29,1060
+829,1059,30,9,snipScissors_absent,snipScissors,absent,5,7591,"The person is closing their fingers together, which could tell me that someone is talking and needs to be quiet. Her hand signal looked like the the same sign people use to indicate that someone is talking.",29,1059
+830,1057,30,7,brushTableBroom_far,brushTableBroom,far,7,5415,The person is signaling that they want me to sweep up the paper using the broom that is sitting in front of us.,29,1057
+831,1056,30,6,closeJar_far,closeJar,far,7,5168,The person is signaling that they want me to close the lid on the jar that is in front of us.,29,1056
+832,1055,30,5,blowCandle_do,blowCandle,do,5,11995,The person is blowing out the candle,29,1055
+833,1054,30,4,foldPaper_absent,foldPaper,absent,1,6584,"I honestly can't really tell what this person is doing. They are moving their hands forward and out towards me, but I don't know what they are asking me to do.",29,1054
+834,1053,30,3,chargePhone_far,chargePhone,far,6,13732,The person is signaling that they want to plug in their phone.,29,1053
+835,1052,30,2,flickTrash_do,flickTrash,do,6,8719,"The person is flicking paper towards my direction, which I feel like is either playful or rude depending on my relationship with the person.",29,1052
+836,1051,30,1,pressRemote_do,pressRemote,do,5,35844,"The person is pointing the remote at me and changing the channels, which I feel is slightly rude. ",29,1051
+837,1050,30,0,drinkMug_do,drinkMug,do,2,17774,The person is raising their mug up to their mouth.,29,1050
+838,1065,30,15,flipPage_far,flipPage,far,7,7503,"The person imitates the flipping page motion, indicating that she wants me to flip the page of the book in front of us.",29,1065
+839,1058,30,8,tapPhone_far,tapPhone,far,6,8733,"The person is tapping her hand, indicating that she wants me to check the phone that is in front of us.",29,1058
+840,539,31,29,sprayBottle_do,sprayBottle,do,7,4568,something smells and they want it to smell good ,29,539
+841,538,31,28,flickTrash_far,flickTrash,far,6,3889,they want a clean environment and they want to flick the mess off ,29,538
+842,537,31,27,pressRemote_far,pressRemote,far,7,4584,showing them that the remote is used like this and you have to press on the buttons ,29,537
+843,510,31,0,dispenseSoap_absent,dispenseSoap,absent,2,12743,"a little clap
+",29,510
+844,511,31,1,drawLine_absent,drawLine,absent,5,8214,writing then pulling away,29,511
+845,512,31,2,tapPhone_absent,tapPhone,absent,5,12293,saying no,29,512
+846,513,31,3,blowCandle_far,blowCandle,far,7,4999,blowing a candle ,29,513
+847,514,31,4,foldNapkin_far,foldNapkin,far,6,4967,like shes in trouble and asking you to come here ,29,514
+848,515,31,5,igniteLighter_do,igniteLighter,do,7,4747,going to burn something ,29,515
+849,517,31,7,drinkMug_far,drinkMug,far,2,5832,im not sure ,29,517
+850,518,31,8,foldPaper_do,foldPaper,do,6,4565,folding the paper to hide a bad score ,29,518
+851,519,31,9,drinkCup_do,drinkCup,do,7,4111,drinking ,29,519
+852,520,31,10,openCan_far,openCan,far,7,3822,they want to drink it but shouldnt have it ,29,520
+853,521,31,11,tweezeTweezer_do,tweezeTweezer,do,6,4135,theyre mad and are using that because they want to let them know theyre mad ,29,521
+854,522,31,12,pullTissue_far,pullTissue,far,6,5742,they want a tissue but not too sure if they should get one,29,522
+855,516,31,6,eraseMark_do,eraseMark,do,6,5629,trying to ease it,29,516
+856,524,31,14,brushTableBroom_absent,brushTableBroom,absent,3,5352,playing an invisible instrument ,29,524
+857,523,31,13,zipPlasticBag_far,zipPlasticBag,far,6,4288,trying to show someone how to open the bag ,29,523
+858,536,31,26,snipScissors_do,snipScissors,do,2,8496,no communication just showing scissors ,29,536
+859,535,31,25,crushBottle_do,crushBottle,do,7,3816,annoyed /mad/frustrated something didnt happen correctly or went their way,29,535
+860,534,31,24,peelPostIt_do,peelPostIt,do,6,5052,they are mad they have to study ,29,534
+861,533,31,23,openLid_far,openLid,far,7,5457,saying yeah you opened it correctly and now this is how you are able to drink it but twisting it like this. all the way off,29,533
+862,531,31,21,flipPage_absent,flipPage,absent,6,3584,"this one or that one 
+",29,531
+863,532,31,22,chargePhone_absent,chargePhone,absent,2,9352,"putting something into another thing??
+im not really sure ",29,532
+864,529,31,19,openSnack_far,openSnack,far,7,4640,they wanted to open one way but you are telling them it is open this way ,29,529
+865,528,31,18,openGluestick_absent,openGluestick,absent,6,4480,"being like ""oh man"" like as if something didnt go their way",29,528
+866,527,31,17,twistCube_absent,twistCube,absent,2,5886,"rotating something 
+",29,527
+867,526,31,16,closeJar_absent,closeJar,absent,6,3191,showing someone that is the correct way to open something ,29,526
+868,525,31,15,swipePhone_do,swipePhone,do,5,10529,dont know what to do on their phone ,29,525
+869,530,31,20,insertAirpod_absent,insertAirpod,absent,6,4358,they need to listen ,29,530
+870,316,32,16,openGluestick_do,openGluestick,do,1,5990,Opening their chapstick.,29,316
+871,320,32,20,openSnack_absent,openSnack,absent,7,5281,Telling me to tear something.,29,320
+872,317,32,17,drinkCup_far,drinkCup,far,7,5768,Telling me to drink.,29,317
+873,318,32,18,blowCandle_absent,blowCandle,absent,1,7620,Whistling,29,318
+874,319,32,19,tapPhone_do,tapPhone,do,1,5424,Using their phone.,29,319
+875,321,32,21,eraseMark_far,eraseMark,far,7,10433,Telling me to erase the line.,29,321
+876,328,32,28,brushTableBroom_do,brushTableBroom,do,5,9632,Showing me how to clean.,29,328
+877,323,32,23,flipPage_do,flipPage,do,1,5065,Flipping a page.,29,323
+878,324,32,24,openLid_absent,openLid,absent,7,5624,Telling me to open a bottle.,29,324
+879,325,32,25,pullTissue_absent,pullTissue,absent,4,13425,Either moving their hand or telling me to do something.,29,325
+880,326,32,26,closeJar_do,closeJar,do,1,16560,Closing lid,29,326
+881,327,32,27,twistCube_do,twistCube,do,4,11616,Either using the rubix cube themself or showing me how to.,29,327
+882,315,32,15,sprayBottle_far,sprayBottle,far,7,4536,Showing me how/telling me to spray the sunscreen,29,315
+883,322,32,22,chargePhone_do,chargePhone,do,5,8663,Either just plugging in their phone or showing me how to.,29,322
+884,314,32,14,drinkMug_absent,drinkMug,absent,4,12736,I think they were trying to show me something but I don't know what.,29,314
+885,329,32,29,snipScissors_far,snipScissors,far,7,5000,Telling me to/showing me how to use scissors.,29,329
+886,312,32,12,insertAirpod_do,insertAirpod,do,1,5472,Putting their earbud in.,29,312
+887,300,32,0,flickTrash_absent,flickTrash,absent,5,26883,Flicking their fingers (potentially telling me to get rid of something in front of me).,29,300
+888,301,32,1,peelPostIt_far,peelPostIt,far,7,14190,Telling me to tear off a paper from the note pad.,29,301
+889,302,32,2,drawLine_do,drawLine,do,1,9152,Drawing a line,29,302
+890,313,32,13,pressRemote_absent,pressRemote,absent,6,9393,Telling me to use the remote.,29,313
+891,304,32,4,dispenseSoap_do,dispenseSoap,do,5,8960,Either just putting on hand sanitizer or showing me how to use it.,29,304
+892,305,32,5,openCan_absent,openCan,absent,6,17272,Showing me how to do something but I don't know what.,29,305
+893,303,32,3,igniteLighter_far,igniteLighter,far,7,5535,Telling me how to light the lighter.,29,303
+894,307,32,7,crushBottle_far,crushBottle,far,5,13335,Potentially telling me to crush the bottle.,29,307
+895,308,32,8,tweezeTweezer_far,tweezeTweezer,far,5,12187,Trying to show me how to squeeze the tweezers.,29,308
+896,309,32,9,zipPlasticBag_absent,zipPlasticBag,absent,5,14519,Showing me how to open/close a ziploc bag.,29,309
+897,310,32,10,swipePhone_far,swipePhone,far,5,8910,Telling me to swipe the phone to do/see something.,29,310
+898,311,32,11,foldNapkin_absent,foldNapkin,absent,2,28087,I have no idea.,29,311
+899,306,32,6,foldPaper_far,foldPaper,far,7,15222,Telling me to put my paper on top.,29,306

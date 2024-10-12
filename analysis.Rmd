@@ -1,0 +1,59 @@
+```{r}
+with_label_df <- read.csv('with_label_df.csv')
+head(with_label_df)
+
+library(lme4)
+library(lmerTest)
+library(dplyr)
+library(stats)
+```
+
+
+Reformat context into categories.
+readAction_int and identification_int are binary variables, therefore left unchanged.
+Created 3 dfs, each releveling to one context
+
+```{r}
+with_label_df$condition <- factor(with_label_df$condition)
+conditions <- unique(with_label_df$condition)
+
+releveled_df_list <- list()
+
+for (c in conditions){
+  df <- with_label_df
+  df$condition <- relevel(df$condition, ref = c)
+  releveled_df_list[[c]] <- df
+}
+```
+
+
+mixed-effect linear model: context predicts ratings
+```{r}
+model_rating_context <- rating ~ condition + (1 | subjectID) + (1 | action)
+results_rating_context <- lmer(model_rating_context, data = releveled_df_list[["far"]])
+summary(results_rating_context)
+CI_rating_context <- confint(results_rating_context, method = "profile", level = 0.95)
+print(CI_rating_context)
+```
+
+Mixed effect linear model: any identification predicts rating
+```{r}
+model_rating_any <- rating ~ identified_int + (1 | subjectID) + (1 | action)
+results_rating_any <- lmer(model_rating_any, data = with_label_df)
+summary(results_rating_any)
+CI_rating_any <- confint(results_rating_any, method = "profile", level = 0.95)
+print(CI_rating_any)
+```
+
+
+mixed-effect linear model: correct identification predicts ratings
+
+```{r}
+model_rating_correct <- rating ~ readAction_int + (1 | subjectID) + (1 | action)
+results_rating_correct <- lmer(model_rating_correct, data = with_label_df)
+summary(results_rating_correct)
+CI_rating_correct <- confint(results_rating_correct, method = "profile", level = 0.95)
+print(CI_rating_correct)
+```
+
+
